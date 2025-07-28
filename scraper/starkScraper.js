@@ -37,27 +37,37 @@ ${description}
 }
 
 // 2. Søg på STARK og scrap første pris
+const puppeteer = require("puppeteer");
+
 async function getPriceFromStark(keyword) {
   const url = `https://www.stark.dk/Search?keyword=${encodeURIComponent(
     keyword
   )}`;
-  const res = await axios.get(url);
-  const $ = cheerio.load(res.data);
+  const browser = await puppeteer.launch({ headless: "new" }); // headless: false hvis du vil se det ske
+  const page = await browser.newPage();
+  await page.goto(url, { waitUntil: "domcontentloaded" });
 
-  const firstProduct = $(".product-tile").first();
-  const name = firstProduct.find(".product-title").text().trim();
-  const priceText = firstProduct
-    .find(".sales .value")
-    .text()
-    .replace(",", ".")
-    .trim();
-  const price = parseFloat(priceText);
+  // Vent lidt ekstra på at produkter loader
+  await page.waitForSelector(".product-tile", { timeout: 5000 });
 
-  if (!name || isNaN(price)) {
+  const result = await page.evaluate(() => {
+    const product = document.querySelector(".product-tile");
+    if (!product) return null;
+
+    const name = product.querySelector(".product-title")?.innerText.trim();
+    const priceText = product.querySelector(".sales .value")?.innerText.trim();
+
+    return { name, priceText };
+  });
+
+  await browser.close();
+
+  if (!result || !result.name || !result.priceText) {
     throw new Error(`Ingen gyldig pris fundet for: ${keyword}`);
   }
 
-  return { name, unit_price: price };
+  const price = parseFloat(result.priceText.replace(",", "."));
+  return { name: result.name, unit_price: price };
 }
 
 // 3. Saml det hele
