@@ -1,5 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const puppeteer = require("puppeteer");
 const { OpenAI } = require("openai");
 
 // 1. Brug OpenAI til at finde materialer og mængder
@@ -37,25 +38,54 @@ ${description}
 }
 
 // 2. Søg på STARK og scrap første pris
-const puppeteer = require("puppeteer");
 
 async function getPriceFromStark(keyword) {
   const url = `https://www.stark.dk/Search?keyword=${encodeURIComponent(
     keyword
   )}`;
-  const browser = await puppeteer.launch({ headless: "new" }); // headless: false hvis du vil se det ske
-  const page = await browser.newPage();
-  await page.goto(url, { waitUntil: "domcontentloaded" });
 
-  // Vent lidt ekstra på at produkter loader
-  await page.waitForSelector(".product-tile", { timeout: 5000 });
+  const browser = await puppeteer.launch({
+    headless: false, // Åbn browser GUI
+    slowMo: 50, // Gør det langsommere så du kan følge med
+    defaultViewport: null, // Brug fuld vindue
+  });
+
+  const page = await browser.newPage();
+
+  // Log fra browserens console til din terminal
+  page.on("console", (msg) => console.log("PAGE LOG:", msg.text()));
+
+  try {
+    await page.goto(url, { waitUntil: "networkidle2", timeout: 30000 });
+  } catch (err) {
+    await browser.close();
+    throw new Error(`Kunne ikke loade STARK: ${err.message}`);
+  }
+
+  try {
+    await page.waitForSelector("button#onetrust-accept-btn-handler", {
+      timeout: 5000,
+    });
+    await page.click("button#onetrust-accept-btn-handler");
+    console.log("✅ Accepterede cookies");
+  } catch {
+    console.log("ℹ️ Ingen cookie-popup");
+  }
+
+  try {
+    await page.waitForSelector(".product-item", { timeout: 10000 });
+    console.log("✅ Produktliste fundet");
+  } catch (err) {
+    await browser.close();
+    throw new Error("❌ Kunne ikke finde produktlisten ('.product-item')");
+  }
 
   const result = await page.evaluate(() => {
-    const product = document.querySelector(".product-tile");
+    const product = document.querySelector(".product-item");
     if (!product) return null;
 
-    const name = product.querySelector(".product-title")?.innerText.trim();
-    const priceText = product.querySelector(".sales .value")?.innerText.trim();
+    const name = product.querySelector("a")?.innerText?.trim();
+    const priceText = product.querySelector(".memberprice")?.innerText?.trim();
 
     return { name, priceText };
   });
@@ -63,7 +93,7 @@ async function getPriceFromStark(keyword) {
   await browser.close();
 
   if (!result || !result.name || !result.priceText) {
-    throw new Error(`Ingen gyldig pris fundet for: ${keyword}`);
+    throw new Error(`❌ Ingen gyldig pris fundet for: ${keyword}`);
   }
 
   const price = parseFloat(result.priceText.replace(",", "."));
