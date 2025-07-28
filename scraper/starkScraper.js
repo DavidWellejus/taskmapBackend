@@ -7,13 +7,21 @@ const { OpenAI } = require("openai");
 async function extractMaterialsFromText(description) {
   const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
   const prompt = `
-Du er en byggekalkulatør. Udtræk de materialer og mængder der nævnes i teksten nedenfor.
+Du er en byggekalkulatør.
 
-Svar i dette JSON-format:
+1. Udtræk alle materialer og angiv hvor mange m² eller meter de dækker.
+2. Angiv hvor mange enheder (fx plader eller lægter) der skal bruges.
+3. Hvis muligt, antag en standardstørrelse (fx 1200x2400 mm = 2.88 m²) og brug det i beregningen.
+
+Returnér kun dette JSON-format:
 {
   "materials": [
-    { "name": "krydsfiner 12 mm", "quantity": 6 },
-    { "name": "reglar 45x95 mm", "quantity": 10 }
+    {
+      "name": "krydsfiner 12 mm",
+      "area_required_m2": 14,
+      "unit_area_m2": 2.88,
+      "units_needed": 5
+    }
   ]
 }
 
@@ -81,20 +89,37 @@ async function getPriceFromStark(keyword) {
   }
 
   const result = await page.evaluate(() => {
-    const product = document.querySelector(".product-item");
-    if (!product) return null;
+    const name = document.querySelector(".product-title")?.innerText.trim();
 
-    const name = product.querySelector("a")?.innerText?.trim();
-    const priceText = product.querySelector(".memberprice")?.innerText?.trim();
+    const priceElements = Array.from(document.querySelectorAll(".text-right"))
+      .map((el) => el.innerText.trim())
+      .filter((text) => text.includes("/") && text.match(/\d+,\d+/));
 
-    return { name, priceText };
+    const pricePerPieceText = priceElements.find((p) => p.includes("/ PL"));
+    const pricePerM2Text = priceElements.find((p) => p.includes("/ M2"));
+
+    return {
+      name,
+      pricePerPiece: pricePerPieceText?.match(/[\d.,]+/)?.[0] ?? null,
+      pricePerM2: pricePerM2Text?.match(/[\d.,]+/)?.[0] ?? null,
+    };
   });
 
   await browser.close();
 
-  if (!result || !result.name || !result.priceText) {
-    throw new Error(`❌ Ingen gyldig pris fundet for: ${keyword}`);
+  if (!result || !result.name) {
+    throw new Error(`Ingen gyldig pris fundet for: ${keyword}`);
   }
+
+  return {
+    name: result.name,
+    unit_price_piece: result.pricePerPiece
+      ? parseFloat(result.pricePerPiece.replace(",", "."))
+      : null,
+    unit_price_m2: result.pricePerM2
+      ? parseFloat(result.pricePerM2.replace(",", "."))
+      : null,
+  };
 
   const price = parseFloat(result.priceText.replace(",", "."));
   return { name: result.name, unit_price: price };
@@ -108,18 +133,27 @@ async function estimatePriceFromText(description) {
 
   for (const mat of materials) {
     const result = await getPriceFromStark(mat.name);
-    const total = result.unit_price * mat.quantity;
+    const pricePiece = result.unit_price_piece ?? 0;
+    const priceM2 = result.unit_price_m2 ?? 0;
+
+    const priceFromPiece = pricePiece * mat.units_needed;
+    const priceFromM2 = priceM2 * mat.area_required_m2;
 
     items.push({
       name: result.name,
-      quantity: mat.quantity,
-      unit_price: result.unit_price,
-      total: Math.round(total * 100) / 100,
+      quantity: mat.units_needed,
+      unit_price_piece: pricePiece,
+      unit_price_m2: priceM2,
+      area_required_m2: mat.area_required_m2,
+      total_price_piece: Math.round(priceFromPiece * 100) / 100,
+      total_price_m2: Math.round(priceFromM2 * 100) / 100,
     });
   }
 
-  const total_price = items.reduce((sum, item) => sum + item.total, 0);
-
+  const total_price = items.reduce(
+    (sum, item) => sum + Math.min(item.total_price_piece, item.total_price_m2),
+    0
+  );
   return {
     items,
     total_price: Math.round(total_price * 100) / 100,
