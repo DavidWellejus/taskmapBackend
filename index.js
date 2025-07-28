@@ -1,26 +1,15 @@
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
-const { estimatePriceFromText } = require("./scraper/starkScraper");
-
 dotenv.config();
+const estimateRoute = require("./routes/estimate"); // 👈 bruger GPT i stedet for scraping
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.post("/api/estimate", async (req, res) => {
-  const { description } = req.body;
-
-  try {
-    const result = await estimatePriceFromText(description);
-    res.json(result);
-  } catch (err) {
-    console.error(err);
-    res.status(500).json({ error: "Noget gik galt under beregningen." });
-  }
-});
+app.use("/api/estimate", estimateRoute); // 👈 nu bruges OpenAI-versionen
 
 app.listen(5050, () => {
-  console.log("Scraper backend kører på http://localhost:5050");
+  console.log("GPT backend kører på http://localhost:5050");
 });
