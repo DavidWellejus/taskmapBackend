@@ -41,41 +41,51 @@ async function extractProductData(url) {
   const puppeteer = require("puppeteer");
   const cheerio = require("cheerio");
 
-  console.log(`🔍 Scraper produkt: ${url}`);
+  console.log("🔍 Scraper produkt:", url);
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
-  await new Promise((resolve) => setTimeout(resolve, 1500));
+  await new Promise((resolve) => setTimeout(resolve, 1000));
   const html = await page.content();
   await browser.close();
 
   const $ = cheerio.load(html);
+  const jsonLdRaw = $('script[type="application/ld+json"]').html();
 
-  // ✅ NY: Få navn ud fra h1 med class som matcher (fx pb-0)
-  const name = $("h1").first().text().trim();
-  console.log(`📦 Fundet navn: ${name}`);
-
-  const prices = [];
-
-  // 💶 Pris inkl. moms (eksempel: 131,65 / PL og 60,95 / M2)
-  $(".price-area .text-right").each((_, el) => {
-    const text = $(el).text().trim();
-    console.log(`💶 Fundet pris-tekst: "${text}"`);
-    const match = text.match(/(\d{1,3}(?:\.\d{3})*,\d{2})\s*\/\s*(\w+)/i);
-    if (match) {
-      const amount = parseFloat(match[1].replace(/\./g, "").replace(",", "."));
-      const unit = match[2].toUpperCase();
-      prices.push({ amount, unit, type: "inkl_moms" });
-      console.log(`✅ Matcher: Pris = ${amount}, Enhed = ${unit}`);
-    }
-  });
-
-  if (!name || prices.length === 0) {
-    console.warn(`⛔️ Manglede data fra: ${url}`);
+  if (!jsonLdRaw) {
+    console.warn(`⛔️ Intet JSON-LD fundet på: ${url}`);
     return null;
   }
 
-  return { name, url, prices };
+  let json;
+  try {
+    json = JSON.parse(jsonLdRaw);
+  } catch (err) {
+    console.warn(`⛔️ Kunne ikke parse JSON-LD: ${err.message}`);
+    return null;
+  }
+
+  const name = json.name;
+  const image = Array.isArray(json.image) ? json.image[0] : json.image;
+  const sku = json.sku;
+  const description = json.description;
+  const price = parseFloat(json.offers?.price ?? 0);
+  const currency = json.offers?.priceCurrency ?? "DKK";
+
+  if (!name || !price) {
+    console.warn(`⛔️ Manglede data i JSON-LD: ${url}`);
+    return null;
+  }
+
+  return {
+    name,
+    image,
+    sku,
+    description,
+    price,
+    currency,
+    url,
+  };
 }
 async function scrapeStarkCatalog() {
   const catalog = [];
