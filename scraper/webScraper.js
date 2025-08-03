@@ -11,18 +11,37 @@ async function getCategoryUrls() {
   return urls.filter((url) => url.includes("/byggematerialer"));
 }
 
-async function extractProductUrlsFromCategory(url) {
-  console.log("Forsøger kategori:", url);
+async function extractSubcategoryUrls(categoryUrl) {
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
-  await page.goto(url, { waitUntil: "networkidle2" });
-  await page.evaluate(() => window.scrollBy(0, window.innerHeight * 3));
-  await new Promise((resolve) => setTimeout(resolve, 2000));
+  await page.goto(categoryUrl, { waitUntil: "networkidle2" });
+  await page.waitForTimeout(2000);
 
   const html = await page.content();
   const $ = cheerio.load(html);
-  const productLinks = [];
 
+  const subcategoryUrls = [];
+  $(".stark-category-item a").each((_, el) => {
+    const href = $(el).attr("href");
+    if (href && href.startsWith("/")) {
+      subcategoryUrls.push("https://www.stark.dk" + href);
+    }
+  });
+
+  await browser.close();
+  return subcategoryUrls;
+}
+
+async function extractProductUrls(categoryOrSubUrl) {
+  const browser = await puppeteer.launch({ headless: "new" });
+  const page = await browser.newPage();
+  await page.goto(categoryOrSubUrl, { waitUntil: "networkidle2" });
+  await page.waitForTimeout(2000);
+
+  const html = await page.content();
+  const $ = cheerio.load(html);
+
+  const productLinks = [];
   $(".product-item a").each((_, el) => {
     const href = $(el).attr("href");
     if (href && href.includes("/")) {
@@ -38,72 +57,62 @@ async function extractProductUrlsFromCategory(url) {
 }
 
 async function extractProductData(url) {
-  const puppeteer = require("puppeteer");
-  const cheerio = require("cheerio");
-
   console.log("🔍 Scraper produkt:", url);
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
-  await new Promise((resolve) => setTimeout(resolve, 1000));
+  await page.waitForTimeout(1500);
+
   const html = await page.content();
+  const $ = cheerio.load(html);
+
+  const jsonLd = $('script[type="application/ld+json"]').html();
+  if (!jsonLd) {
+    await browser.close();
+    console.warn("⛔️ Manglede JSON-LD i:", url);
+    return null;
+  }
+
+  let data;
+  try {
+    data = JSON.parse(jsonLd);
+  } catch (err) {
+    console.warn("⛔️ Fejl ved parsing af JSON-LD i:", url);
+    return null;
+  }
+
   await browser.close();
 
-  const $ = cheerio.load(html);
-  const jsonLdRaw = $('script[type="application/ld+json"]').html();
-
-  if (!jsonLdRaw) {
-    console.warn(`⛔️ Intet JSON-LD fundet på: ${url}`);
-    return null;
-  }
-
-  let json;
-  try {
-    json = JSON.parse(jsonLdRaw);
-  } catch (err) {
-    console.warn(`⛔️ Kunne ikke parse JSON-LD: ${err.message}`);
-    return null;
-  }
-
-  const name = json.name;
-  const image = Array.isArray(json.image) ? json.image[0] : json.image;
-  const sku = json.sku;
-  const description = json.description;
-  const price = parseFloat(json.offers?.price ?? 0);
-  const currency = json.offers?.priceCurrency ?? "DKK";
-
-  if (!name || !price) {
-    console.warn(`⛔️ Manglede data i JSON-LD: ${url}`);
-    return null;
-  }
-
   return {
-    name,
-    image,
-    sku,
-    description,
-    price,
-    currency,
-    url,
+    name: data.name,
+    price: data.offers?.price ? parseFloat(data.offers.price) : null,
+    currency: data.offers?.priceCurrency || "DKK",
+    url: url,
+    sku: data.sku,
+    description: data.description,
+    image: data.image?.[0] || null,
   };
 }
+
 async function scrapeStarkCatalog() {
   const catalog = [];
+  const mainCategories = await getCategoryUrls();
 
-  const productUrls = [
-    "https://www.stark.dk/raw-standard-gips-ak-13-mm-900-mm-2400-mm?id=4100-9760226",
-  ];
+  for (const categoryUrl of mainCategories) {
+    console.log("🔍 Kigger på kategori:", categoryUrl);
+    const subcategories = await extractSubcategoryUrls(categoryUrl);
+    const targets = subcategories.length > 0 ? subcategories : [categoryUrl];
 
-  for (const url of productUrls) {
-    try {
-      const product = await extractProductData(url);
-      if (product && product.name && product.price) {
-        catalog.push(product);
-      } else {
-        console.warn("⛔️ Manglede data fra:", url);
+    for (const subUrl of targets) {
+      console.log("➡️ Kigger på underkategori:", subUrl);
+      const productUrls = await extractProductUrls(subUrl);
+
+      for (const productUrl of productUrls) {
+        const product = await extractProductData(productUrl);
+        if (product && product.name && product.price) {
+          catalog.push(product);
+        }
       }
-    } catch (err) {
-      console.error("❌ Fejl ved produkt:", url, err.message);
     }
   }
 

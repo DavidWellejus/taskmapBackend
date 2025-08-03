@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { scrapeStarkCatalog } = require("../scraper/webScraper");
+const { scrapeStarkCatalog } = require("../scraper/webScraper_fixed");
 
 async function runScraper() {
   try {

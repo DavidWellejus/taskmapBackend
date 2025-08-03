@@ -1,11 +1,4682 @@
 [
   {
+    "name": "RAW Fyr Seksta Trykimprægneret 50x100 mm",
+    "price": 68.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-trykimpraegneret-50x100-mm-3000-mm?id=1351-05010040300"
+  },
+  {
+    "name": "RAW Stolpe Trykimprægneret 97x97 mm",
+    "price": 134.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stolpe-trykimpraegneret-97x97-mm-3000-mm?id=1671-09709700300"
+  },
+  {
+    "name": "RAW Stolpe Trykimprægneret 75x75 mm",
+    "price": 71.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stolpe-trykimpraegneret-75x75-mm-2400-mm?id=1671-07507500240"
+  },
+  {
+    "name": "RAW Gran Seksta Trykimprægneret 16x100 mm",
+    "price": 21.48,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-seksta-trykimpraegneret-16x100-mm-2400-mm?id=1741-01610000240"
+  },
+  {
+    "name": "RAW Fyr Seksta Trykimprægneret 19x100 mm",
+    "price": 35.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-trykimpraegneret-19x100-mm-3000-mm?id=1351-01910000300"
+  },
+  {
+    "name": "RAW Spærtræ C24 Trykimprægneret Fyr 50x150 mm",
+    "price": 171.99,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-trykimpraegneret-fyr-50x150-mm-4200-mm?id=1671-05015060420"
+  },
+  {
+    "name": "RAW Fyr Seksta Trykimprægneret 50x125 mm",
+    "price": 142.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-trykimpraegneret-50x125-mm-4200-mm?id=1351-05012540420"
+  },
+  {
+    "name": "RAW Spærtræ C24 Trykimprægneret Fyr 50x200 mm",
+    "price": 230.79,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-trykimpraegneret-fyr-50x200-mm-4200-mm?id=1671-05020060420"
+  },
+  {
+    "name": "RAW Fyr Trykimprægneret Fuldmålslægte 38x57 mm",
+    "price": 54.39,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-trykimpraegneret-fuldmaalslaegte-38x57-mm-4200-mm?id=1501-03805790420"
+  },
+  {
+    "name": "RAW Gran Seksta Trykimprægneret 25x50 mm",
+    "price": 37.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-seksta-trykimpraegneret-25x50-mm-4200-mm?id=1741-02505000420"
+  },
+  {
+    "name": "RAW Høvlet Forskalling 22x100 mm",
+    "price": 36.15,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-hoevlet-forskalling-22x100-mm-3000-mm?id=1305-02210030300"
+  },
+  {
+    "name": "RAW Fyr Forskalling 25x100 mm",
+    "price": 65.53,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-forskalling-25x100-mm-4200-mm?id=1300-02510000420"
+  },
+  {
+    "name": "RAW Støbebrædder 32x125 mm",
+    "price": 91.35,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stoebebraedder-32x125-mm-4200-mm?id=1325-03212580420"
+  },
+  {
+    "name": "RAW Fyr Forskalling 19x100 mm",
+    "price": 53.13,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-forskalling-19x100-mm-4200-mm?id=1300-01910000420"
+  },
+  {
+    "name": "RAW Høvlet Forskalling 22x50 mm",
+    "price": 49.78,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-hoevlet-forskalling-22x50-mm-4200-mm?id=1305-02205030420"
+  },
+  {
+    "name": "RAW Fuldmålslægte 38x57 mm",
+    "price": 37.68,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fuldmaalslaegte-38x57-mm-2400-mm?id=1500-03805790240"
+  },
+  {
+    "name": "RAW Taglægter C18 BDT 38x73 mm",
+    "price": 91.98,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-taglaegter-c18-bdt-38x73-mm-4200-mm?id=1540-03807310420"
+  },
+  {
+    "name": "RAW Fyr Trykimprægneret Fuldmålslægte 38x57 mm",
+    "price": 54.39,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-trykimpraegneret-fuldmaalslaegte-38x57-mm-4200-mm?id=1501-03805790420"
+  },
+  {
+    "name": "RAW Gran Taglægter Trykimprægneret 38x73 mm",
+    "price": 215.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-taglaegter-trykimpraegneret-38x73-mm-4200-mm?id=1541-03807310420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Hvidmalet 3131 19x125 mm",
+    "price": 156.03,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-hvidmalet-3131-19x125-mm-4200-mm?id=1216-01912520420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Panellak  3121 19x125 mm",
+    "price": 145.53,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-panellak-3121-19x125-mm-4200-mm?id=1216-01912510420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Panellak 3112 19x100 mm",
+    "price": 133.14,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-panellak-3112-19x100-mm-4200-mm?id=1216-01910080420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Hvidmalet 3135 19x100 mm",
+    "price": 160.86,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-hvidmalet-3135-19x100-mm-4200-mm?id=1216-01910090420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Hvidmalet 3141 19x125 mm",
+    "price": 172.83,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-hvidmalet-3141-19x125-mm-4200-mm?id=1216-01912500420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Panellak 3133 19x125 mm",
+    "price": 186.69,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-panellak-3133-19x125-mm-4200-mm?id=1216-01912550420"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Panellak 3111 19x125 mm",
+    "price": 118.08,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-panellak-3111-19x125-mm-3600-mm?id=1216-01912530360"
+  },
+  {
+    "name": "RAW Fyr Profil Hvidmalet 3136 19x125 mm",
+    "price": 195.09,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-profil-hvidmalet-3136-19x125-mm-4200-mm?id=1216-01912590420"
+  },
+  {
+    "name": "RAW Fyr Profil Hvidmalet 2580 19x125 mm",
+    "price": 187.11,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-profil-hvidmalet-2580-19x125-mm-4200-mm?id=1216-01912560420"
+  },
+  {
+    "name": "SUPERWOOD SW14 AART 25 x 100 mm Ubehandlet",
+    "price": 287.91,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/superwood-sw14-aart-25-x-100-mm-ubehandlet-4200-mm?id=1195-02109510420"
+  },
+  {
+    "name": "RAW Reglar 47x100 mm",
+    "price": 59.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x100-mm-2400-mm?id=1325-04710070240"
+  },
+  {
+    "name": "RAW Reglar 47x50 mm",
+    "price": 66.78,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x50-mm-4200-mm?id=1325-04705070420"
+  },
+  {
+    "name": "RAW Reglar 47x75 mm",
+    "price": 83.34,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x75-mm-3600-mm?id=1325-04707570360"
+  },
+  {
+    "name": "RAW Reglar 47x125 mm",
+    "price": 162.13,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x125-mm-4200-mm?id=1325-04712570420"
+  },
+  {
+    "name": "RAW Reglar 47x150 mm",
+    "price": 194.46,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x150-mm-4200-mm?id=1325-04715070420"
+  },
+  {
+    "name": "RAW Reglar 47x200 mm",
+    "price": 259.14,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x200-mm-4200-mm?id=1325-04720070420"
+  },
+  {
+    "name": "Reglar Fingersamlet 47x100 mm",
+    "price": 77.64,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/reglar-fingersamlet-47x100-mm-2400-mm?id=1325-04710090240"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x150 mm",
+    "price": 213.84,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x150-mm-3600-mm?id=1624-04715010360"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x200 mm",
+    "price": 284.94,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x200-mm-3600-mm?id=1624-04720010360"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x250 mm",
+    "price": 426.09,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x250-mm-4200-mm?id=1624-04725010420"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x125 mm",
+    "price": 178.2,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x125-mm-3600-mm?id=1624-04712510360"
+  },
+  {
+    "name": "RAW Spærtræ C24 Fingersamlet 47x200 mm",
+    "price": 552,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-fingersamlet-47x200-mm-6000-mm?id=1624-04720080600"
+  },
+  {
+    "name": "RAW Spærtræ C24 Fingersamlet 47x150 mm",
+    "price": 414,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-fingersamlet-47x150-mm-6000-mm?id=1624-04715080600"
+  },
+  {
+    "name": "RAW Spærtræ C24 Fingersamlet 47x300 mm",
+    "price": 832.8,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-fingersamlet-47x300-mm-6000-mm?id=1624-04730080600"
+  },
+  {
+    "name": "RAW Spærtræ C24 Fingersamlet 47x250 mm",
+    "price": 698.4,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-fingersamlet-47x250-mm-6000-mm?id=1624-04725080600"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x100 mm",
+    "price": 166.33,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x100-mm-4200-mm?id=1624-04710010420"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x300 mm",
+    "price": 542.43,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x300-mm-4200-mm?id=1624-04730010420"
+  },
+  {
+    "name": "Jatoba Terrassebrædder 21x145 mm Glat/Glat",
+    "price": 325.44,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jatoba-terrassebraedder-21x145-mm-glat-glat-3050-mm?id=1840-02114520305"
+  },
+  {
+    "name": "RAW Fyr Seksta Terrassebrædder Trykimprægneret 32x125 mm",
+    "price": 79.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-terrassebraedder-trykimpraegneret-32x125-mm-4200-mm?id=1356-03212580420"
+  },
+  {
+    "name": "GROUNDPLUG M12 Twister Skruefundament",
+    "price": 239,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/groundplug-m12-twister-skruefundament-600-mm?id=2740-9754944"
+  },
+  {
+    "name": "RAW Fyr Seksta Terrassebrædder Trykimprægneret 25x100 mm",
+    "price": 62.79,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-terrassebraedder-trykimpraegneret-25x100-mm-4200-mm?id=1356-02510080420"
+  },
+  {
+    "name": "GROUNDPLUG M16 Twister Skruefundament",
+    "price": 349,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/groundplug-m16-twister-skruefundament-750-mm?id=2740-9754949"
+  },
+  {
+    "name": "RAW Justérbar Terrassefod",
+    "price": 34.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-justérbar-terrassefod-3-5-6-5-cm?id=2740-9761070"
+  },
+  {
+    "name": "GROUNDPLUG Twister Stolpebeslag",
+    "price": 229,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/groundplug-twister-stolpebeslag-16-mm-100-mm?id=2740-9754989"
+  },
+  {
+    "name": "EUROTEC Fod Eco",
+    "price": 27.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/eurotec-fod-eco-2-5-cm-1?id=2740-1650738"
+  },
+  {
+    "name": "EUROTEC Boreværktøj 50X",
+    "price": 306.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/eurotec-borevaerktoej-50x?id=2701-1913601"
+  },
+  {
+    "name": "GROUNDPLUG M20 Twister Skruefundament",
+    "price": 839,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/groundplug-m20-twister-skruefundament-1500-mm?id=2740-9754991"
+  },
+  {
+    "name": "KERTO-T LVL Gulvstrøer Gran 39x40 mm",
+    "price": 108.15,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/kerto-t-lvl-gulvstroeer-gran-39x40-mm-4200-mm?id=8100-9454209"
+  },
+  {
+    "name": "KERTO-T LVL Gulvstrøer Gran 63x40 mm",
+    "price": 206.64,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/kerto-t-lvl-gulvstroeer-gran-63x40-mm-4800-mm?id=8100-9509643"
+  },
+  {
+    "name": "RAW Limtræ Gran GL28cs",
+    "price": 1032,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-limtrae-gran-gl28cs-115-mm-115-mm-3000-mm?id=8110-9654006"
+  },
+  {
+    "name": "RAW Limtræ Gran GL30c",
+    "price": 3966,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-limtrae-gran-gl30c-300-mm-115-mm-6000-mm?id=8110-9654039"
+  },
+  {
+    "name": "Dansk Tømmer C18 100x100 mm",
+    "price": 352.38,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-100x100-mm-4200-mm?id=1620-10010000420"
+  },
+  {
+    "name": "Dansk Tømmer C18 75x150 mm",
+    "price": 396.48,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-75x150-mm-4200-mm?id=1620-07515000420"
+  },
+  {
+    "name": "Dansk Tømmer C18 125x125 mm",
+    "price": 554.19,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-125x125-mm-4200-mm?id=1620-12512500420"
+  },
+  {
+    "name": "Dansk Tømmer C18 100x200 mm",
+    "price": 704.76,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-100x200-mm-4200-mm?id=1620-10020000420"
+  },
+  {
+    "name": "Dansk Tømmer C18 63x125 mm",
+    "price": 277.63,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-63x125-mm-4200-mm?id=1620-06312500420"
+  },
+  {
+    "name": "Dansk Tømmer C18 150x150 mm",
+    "price": 804.09,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-150x150-mm-4200-mm?id=1620-15015000420"
+  },
+  {
+    "name": "Dansk Tømmer C18 50x100 mm",
+    "price": 202.65,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-50x100-mm-4200-mm?id=1620-05010000420"
+  },
+  {
+    "name": "Dansk Tømmer C18 75x175 mm",
+    "price": 462.63,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-75x175-mm-4200-mm?id=1620-07517500420"
+  },
+  {
+    "name": "Dansk Tømmer C18 200x200 mm",
+    "price": 1060.35,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-200x200-mm-3000-mm?id=1620-20020000300"
+  },
+  {
+    "name": "Dansk Tømmer C18 75x200 mm",
+    "price": 643.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansk-toemmer-c18-75x200-mm-5100-mm?id=1620-07520000510"
+  },
+  {
+    "name": "RAW Gran Multibræt Trykimprægneret 25x150 mm",
+    "price": 181.65,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-multibraet-trykimpraegneret-25x150-mm-4200-mm?id=1729-02515080420"
+  },
+  {
+    "name": "RAW Gran Multibræt Trykimprægneret 25x200 mm",
+    "price": 242.34,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-multibraet-trykimpraegneret-25x200-mm-4200-mm?id=1729-02520080420"
+  },
+  {
+    "name": "RAW Gran Stern Mellem Trykimprægneret 25x125 mm",
+    "price": 100.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-stern-mellem-trykimpraegneret-25x125-mm-4200-mm?id=1729-02512560420"
+  },
+  {
+    "name": "RAW Gran Klink Trykimprægneret 25x125 mm",
+    "price": 79.03,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-klink-trykimpraegneret-25x125-mm-3600-mm?id=1729-02512520360"
+  },
+  {
+    "name": "RAW Gran Udhængsbrædder Grundmalet 2 gange 19x100 mm",
+    "price": 97.03,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-udhaengsbraedder-grundmalet-2-gange-19x100-mm-4200-mm?id=1748-01910070420"
+  },
+  {
+    "name": "RAW Gran Multibræt Trykimprægneret 25x125 mm",
+    "price": 151.41,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-multibraet-trykimpraegneret-25x125-mm-4200-mm?id=1729-02512580420"
+  },
+  {
+    "name": "RAW Gran Stern Under Trykimprægneret 25x125 mm",
+    "price": 164.7,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-stern-under-trykimpraegneret-25x125-mm-5400-mm?id=1729-02512570540"
+  },
+  {
+    "name": "RAW Gran Multibræt Trykimprægneret 25x100 mm",
+    "price": 121.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-multibraet-trykimpraegneret-25x100-mm-4200-mm?id=1729-02510080420"
+  },
+  {
+    "name": "RAW Gran Stern Mellem 25x125 mm Sort",
+    "price": 179.13,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-stern-mellem-25x125-mm-sort-4200-mm?id=1723-02512540420"
+  },
+  {
+    "name": "RAW Gran Stern Over Trykimprægneret 25x125 mm",
+    "price": 164.7,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gran-stern-over-trykimpraegneret-25x125-mm-5400-mm?id=1729-02512550540"
+  },
+  {
+    "name": "RAW Tagbrædder Rupløjet 25x125 mm",
+    "price": 104.64,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-tagbraedder-ruploejet-25x125-mm-4800-mm?id=1325-02512590480"
+  },
+  {
+    "name": "RAW Fyr U/S 63x125 mm",
+    "price": 388.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-63x125-mm-4200-mm?id=1100-06312500420"
+  },
+  {
+    "name": "RAW Fyr U/S 25x100 mm",
+    "price": 164.23,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-25x100-mm-4200-mm?id=1100-02510000420"
+  },
+  {
+    "name": "RAW Fyr U/S 25x150 mm",
+    "price": 221.34,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-25x150-mm-4200-mm?id=1100-02515000420"
+  },
+  {
+    "name": "RAW Fyr U/S 25x125 mm",
+    "price": 205.38,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-25x125-mm-4200-mm?id=1100-02512500420"
+  },
+  {
+    "name": "RAW Fyr U/S 19x100 mm",
+    "price": 124.74,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-19x100-mm-4200-mm?id=1100-01910000420"
+  },
+  {
+    "name": "Fyr VTA med fer og not 32x125 mm",
+    "price": 205.8,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fyr-vta-med-fer-og-not-32x125-mm-4200-mm?id=1205-03212500420"
+  },
+  {
+    "name": "Fyr U/S 50x100 mm",
+    "price": 246.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fyr-u-s-50x100-mm-4200-mm?id=1100-05010000420"
+  },
+  {
+    "name": "RAW Fyr U/S 19x125 mm",
+    "price": 133.74,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-19x125-mm-3600-mm?id=1100-01912500360"
+  },
+  {
+    "name": "RAW Fyr U/S 63x150 mm",
+    "price": 465.99,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-u-s-63x150-mm-4200-mm?id=1100-06315000420"
+  },
+  {
+    "name": "KLIK-KLIK Vægpanel Element CLT-03",
+    "price": 1779,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vaegpanel-element-clt-03-290-cm-32-cm-10-cm?id=3600-9808664"
+  },
+  {
+    "name": "KLIK-KLIK Vægpanel Element CLT-02",
+    "price": 3359,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vaegpanel-element-clt-02-290-cm-61-cm-10-cm?id=3600-9808663"
+  },
+  {
+    "name": "KLIK-KLIK Vægpanel Element CLT-01",
+    "price": 3359,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vaegpanel-element-clt-01-290-cm-61-cm-10-cm?id=3600-9808662"
+  },
+  {
+    "name": "KLIK-KLIK Vinduespanel Element CLT-08",
+    "price": 1039,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vinduespanel-element-clt-08-96-5-cm-61-cm-10-cm?id=3600-9808672"
+  },
+  {
+    "name": "KLIK-KLIK Overliggerpanel Element GL-14-2",
+    "price": 909,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-overliggerpanel-element-gl-14-2-30-cm-150-cm-10-cm?id=3600-9808681"
+  },
+  {
+    "name": "KLIK-KLIK Overliggerpanel Element GL-14-4",
+    "price": 1479,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-overliggerpanel-element-gl-14-4-30-cm-251-cm-10-cm?id=3600-9808683"
+  },
+  {
+    "name": "KLIK-KLIK Vinduespanel Element CLT-05",
+    "price": 1999,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vinduespanel-element-clt-05-260-cm-36-cm-10-cm?id=3600-9808666"
+  },
+  {
+    "name": "KLIK-KLIK Vinduespanel Element CLT-04",
+    "price": 1999,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-vinduespanel-element-clt-04-260-cm-36-cm-10-cm?id=3600-9808665"
+  },
+  {
+    "name": "KLIK-KLIK Hjørnepanel Element CLT-10",
+    "price": 1779,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-hjoernepanel-element-clt-10-290-cm-32-cm-10-cm?id=3600-9808675"
+  },
+  {
+    "name": "KLIK-KLIK Hjørnepanel Element CLT-09",
+    "price": 1999,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/klik-klik-hjoernepanel-element-clt-09-290-cm-35-5-cm-10-cm?id=3600-9808673"
+  },
+  {
+    "name": "RAW Reglar 47x100 mm",
+    "price": 59.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reglar-47x100-mm-2400-mm?id=1325-04710070240"
+  },
+  {
+    "name": "RAW Fyr Seksta Trykimprægneret 50x100 mm",
+    "price": 68.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-trykimpraegneret-50x100-mm-3000-mm?id=1351-05010040300"
+  },
+  {
+    "name": "RAW Stolpe Trykimprægneret 97x97 mm",
+    "price": 134.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stolpe-trykimpraegneret-97x97-mm-3000-mm?id=1671-09709700300"
+  },
+  {
+    "name": "RAW Høvlet Forskalling 22x100 mm",
+    "price": 36.15,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-hoevlet-forskalling-22x100-mm-3000-mm?id=1305-02210030300"
+  },
+  {
+    "name": "Jatoba Terrassebrædder 21x145 mm Glat/Glat",
+    "price": 325.44,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jatoba-terrassebraedder-21x145-mm-glat-glat-3050-mm?id=1840-02114520305"
+  },
+  {
+    "name": "RAW Fyr Seksta Terrassebrædder Trykimprægneret 32x125 mm",
+    "price": 79.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-seksta-terrassebraedder-trykimpraegneret-32x125-mm-4200-mm?id=1356-03212580420"
+  },
+  {
+    "name": "RAW Fuldmålslægte 38x57 mm",
+    "price": 37.68,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fuldmaalslaegte-38x57-mm-2400-mm?id=1500-03805790240"
+  },
+  {
+    "name": "RAW Fyr Loftsprofil Hvidmalet 3131 19x125 mm",
+    "price": 156.03,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-loftsprofil-hvidmalet-3131-19x125-mm-4200-mm?id=1216-01912520420"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x150 mm",
+    "price": 213.84,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x150-mm-3600-mm?id=1624-04715010360"
+  },
+  {
+    "name": "RAW Spærtræ C24 47x200 mm",
+    "price": 284.94,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-spaertrae-c24-47x200-mm-3600-mm?id=1624-04720010360"
+  },
+  {
+    "name": "RAPTOR Vinkel",
+    "price": 22.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-vinkel-35-mm-50-mm-2-mm-50-mm?id=2741-9766289"
+  },
+  {
+    "name": "RAPTOR Vinkel",
+    "price": 13.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-vinkel-20-mm-40-mm-2-mm-40-mm?id=2741-9766275"
+  },
+  {
+    "name": "RAPTOR Patent-/Hulbånd",
+    "price": 329,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-patent-hulbaand-0-7-mm-17-mm-10-m?id=2741-9766343"
+  },
+  {
+    "name": "SIMPSON STRONG-TIE Vinkelbeslag med Nøglehulsribbe",
+    "price": 3.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/simpson-strong-tie-vinkelbeslag-med-noeglehulsribbe-88-mm-65-mm-88-mm-2-mm?id=2741-1241531"
+  },
+  {
+    "name": "RAPTOR Normplade",
+    "price": 36.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-normplade-2-mm-100-mm-200-mm?id=2741-9766330"
+  },
+  {
+    "name": "RAPTOR Bjælkesko Type Udvendig Pregalvaniseret",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-bjaelkesko-type-udvendig-pregalvaniseret-45-mm-70-mm-167-mm?id=2741-9766311"
+  },
+  {
+    "name": "RAPTOR Tagåseanker",
+    "price": 20.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-tagaaseanker-hoejre-32-mm-32-mm-170-mm?id=2741-9766339"
+  },
+  {
+    "name": "RAPTOR Hængelås 6-stift",
+    "price": 373.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-haengelaas-6-stift?id=2760-1875724"
+  },
+  {
+    "name": "RAPTOR Hængelås med Hærdet Bøjle",
+    "price": 51.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-haengelaas-med-haerdet-boejle-30-mm?id=2760-1916776"
+  },
+  {
+    "name": "RAPTOR Møbelhjul Drejeligt Grå Plast",
+    "price": 64.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-moebelhjul-drejeligt-graa-plast-50-mm-73-mm?id=2760-1248425"
+  },
+  {
+    "name": "NKT FASTENERS Papsøm Varmforzinket",
+    "price": 234.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-papsoem-varmforzinket-40-mm-650?id=2700-3275146"
+  },
+  {
+    "name": "RAW Alu Søm",
+    "price": 128,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-soem-100?id=9400-9730799"
+  },
+  {
+    "name": "TJEP GR Ringsøm til Sømpistol",
+    "price": 919,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/tjep-gr-ringsoem-til-soempistol-2-8-mm-63-mm-4600?id=2700-1348229"
+  },
+  {
+    "name": "TJEP VF-16 Dykker til Sømpistol",
+    "price": 217.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/tjep-vf-16-dykker-til-soempistol-1-6-mm-38-mm-2000?id=2700-1348777"
+  },
+  {
+    "name": "NKT FASTENERS Spiker Firkant Blank",
+    "price": 369,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-spiker-firkant-blank-6-mm-180-mm-80?id=2700-3386778"
+  },
+  {
+    "name": "PASLODE Firkantet Søm Varmforzinket",
+    "price": 201.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/paslode-firkantet-soem-varmforzinket-3-1-mm-80-mm-230?id=2700-3274594"
+  },
+  {
+    "name": "NKT FASTENERS Rund Dykker Elforzinket GDS",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-rund-dykker-elforzinket-gds-1-4-mm-35-mm?id=2700-2813632"
+  },
+  {
+    "name": "NKT FASTENERS Rund Dykker Elforzinket",
+    "price": 103.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-rund-dykker-elforzinket-1-4-mm-35-mm-870?id=2700-3387156"
+  },
+  {
+    "name": "NKT FASTENERS Hegnskramper Forzinket",
+    "price": 126.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-hegnskramper-forzinket-1-6-mm-20-mm-800?id=2700-3465572"
+  },
+  {
+    "name": "NKT FASTENERS Papsøm Blank",
+    "price": 139.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-papsoem-blank-20-mm-625?id=2700-3749637"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX20",
+    "price": 153.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx20-5-0-mm-100-mm-200?id=2701-9778558"
+  },
+  {
+    "name": "NKT FASTENERS SPUN+ High-Speed Climate-G3 Skrue TX20",
+    "price": 177.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-spun-high-speed-climate-g3-skrue-tx20-5-mm-100-mm-100?id=2701-1376735"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX30",
+    "price": 192.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx30-6-0-mm-150-mm-100?id=2701-9778574"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX10",
+    "price": 164.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx10-3-mm-40-mm-400?id=2701-9778525"
+  },
+  {
+    "name": "RAPTOR TX20 Beslagskruer",
+    "price": 381.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-tx20-beslagskruer-5-mm-40-mm-1200?id=2701-9840400"
+  },
+  {
+    "name": "RAPTOR PH2 Gipsskruer til Træ - Båndede",
+    "price": 156.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-ph2-gipsskruer-til-trae-baandede-3-9-mm-41-mm-1000?id=2701-9840525"
+  },
+  {
+    "name": "RAPTOR PH2 Gipsskrue til Stål - Båndede",
+    "price": 152.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-ph2-gipsskrue-til-staal-baandede-3-5-mm-35-mm-1000?id=2701-9840513"
+  },
+  {
+    "name": "RAPTOR PH2 Gipsskrue til Stål - Båndede",
+    "price": 257.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-ph2-gipsskrue-til-staal-baandede-3-9-mm-41-mm-1000?id=2701-9840517"
+  },
+  {
+    "name": "RAPTOR PH2 Gipsskrue til Forstærket Stål - Båndede",
+    "price": 191.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-ph2-gipsskrue-til-forstaerket-staal-baandede-3-5-mm-35-mm-1000?id=2701-9840519"
+  },
+  {
+    "name": "RAPTOR PH2 Gipsskrue til Træ eller Stål - Båndede",
+    "price": 669,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-ph2-gipsskrue-til-trae-eller-staal-baandede-3-9-mm-55-mm-1000?id=2701-9840452"
+  },
+  {
+    "name": "RAW UMBA Slagdorn, proff",
+    "price": 1039,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-umba-slagdorn-proff-400-mm?id=2703-9699101"
+  },
+  {
+    "name": "RAW UMBA Slagdorn, semi",
+    "price": 203.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-umba-slagdorn-semi?id=2703-9699100"
+  },
+  {
+    "name": "NKT FASTENERS Firkantskiver Varmforzinket",
+    "price": 574,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-firkantskiver-varmforzinket-12-mm-40-mm-50?id=2702-2777829"
+  },
+  {
+    "name": "NKT FASTENERS Møtrik Varmforzinket",
+    "price": 241.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-moetrik-varmforzinket-12-mm-100?id=2702-8132185"
+  },
+  {
+    "name": "NKT FASTENERS Bræddebolt med Møtrik Varmforzinket M10",
+    "price": 454,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-braeddebolt-med-moetrik-varmforzinket-m10-120-mm-25?id=2702-1284952"
+  },
+  {
+    "name": "NKT FASTENERS Gevindstang Elforzinket 1 m",
+    "price": 84.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-gevindstang-elforzinket-1-m-12-mm?id=2702-5118156"
+  },
+  {
+    "name": "NKT FASTENERS Skærmskive/karosseriskive Elforzinket",
+    "price": 280.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-skaermskive-karosseriskive-elforzinket-6-mm-100?id=2702-2777704"
+  },
+  {
+    "name": "NKT FASTENERS Almindelig Skive Elforzinket",
+    "price": 246.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-almindelig-skive-elforzinket-8-mm-200?id=2702-2777480"
+  },
+  {
+    "name": "NKT FASTENERS Almindelig Skive Varmforzinket",
+    "price": 195.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-almindelig-skive-varmforzinket-10-mm-100?id=2702-8132854"
+  },
+  {
+    "name": "NKT FASTENERS Gevindstang Varmforzinket 1 m",
+    "price": 37.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-gevindstang-varmforzinket-1-m-10-mm?id=2702-5198245"
+  },
+  {
+    "name": "RAW Nylondybel til Slagmurbinder",
+    "price": 164.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-nylondybel-til-slagmurbinder-4-mm-50-mm-250?id=2703-9699133"
+  },
+  {
+    "name": "FISCHER DuoPower Plugs DIY",
+    "price": 121.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duopower-plugs-diy-6-mm-30-mm-100?id=2740-1913651"
+  },
+  {
+    "name": "FISCHER DuoPower Nylon Plugs KN V 6 / 8 / 10",
+    "price": 180.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duopower-nylon-plugs-kn-v-6-8-10-12-mm-60-mm-25?id=2740-2368848"
+  },
+  {
+    "name": "Fischer SX Plus Green Dybel",
+    "price": 74.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-sx-plus-green-dybel-6-mm-30-mm-90?id=2703-2376307"
+  },
+  {
+    "name": "FISCHER Sømplug N-S",
+    "price": 141.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-soemplug-n-s-6-mm-60-mm-50?id=2703-1613256"
+  },
+  {
+    "name": "FISCHER DuoXpand Karmplug med Tilhørende Skrue med Undersænket Hoved",
+    "price": 909,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duoxpand-karmplug-med-tilhoerende-skrue-med-undersaenket-hoved-10-mm-120-mm-50?id=2740-2277602"
+  },
+  {
+    "name": "FISCHER DuoBlade Gipsplug",
+    "price": 175.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duoblade-gipsplug-44-mm-40?id=2740-2046915"
+  },
+  {
+    "name": "FISCHER DuoBlade S K NV Gipspladedybel med Skrue",
+    "price": 98.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duoblade-s-k-nv-gipspladedybel-med-skrue-6?id=2740-2047411"
+  },
+  {
+    "name": "Fischer SX Plus Green Dybel S K",
+    "price": 54.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-sx-plus-green-dybel-s-k-6-mm-30-mm-15?id=2703-2376385"
+  },
+  {
+    "name": "FISCHER N Green Sømplug",
+    "price": 103.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-n-green-soemplug-6-mm-40-mm-45?id=2740-1976507"
+  },
+  {
+    "name": "RAW Stållægte C+",
+    "price": 94.3,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-staallaegte-c-0-46-mm-70-mm-2485-mm?id=4120-9759945"
+  },
+  {
+    "name": "RAW Stållægte C+",
+    "price": 84.36,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-staallaegte-c-0-46-mm-45-mm-2485-mm?id=4120-9758619"
+  },
+  {
+    "name": "RAW L50 Hjørneprofil",
+    "price": 86.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-l50-hjoerneprofil-50-mm-50-mm-3000-mm?id=4120-9758042"
+  },
+  {
+    "name": "RAW RB Båndstål",
+    "price": 1435,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-rb-baandstaal-100-mm-50-m?id=4120-9758043"
+  },
+  {
+    "name": "RAW Afslutningsliste",
+    "price": 248.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-afslutningsliste?id=4120-9760698"
+  },
+  {
+    "name": "RAW Fladstål FS95",
+    "price": 28.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fladstaal-fs95-0-5-mm-95-mm-885-mm?id=4120-9782578"
+  },
+  {
+    "name": "RAW Forstærkningslægte",
+    "price": 716,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-forstaerkningslaegte-70-mm-4000-mm?id=4120-9758040"
+  },
+  {
+    "name": "RAW UF Forstærkningsskinne",
+    "price": 471,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-uf-forstaerkningsskinne-70-mm-3000-mm?id=4120-9758046"
+  },
+  {
+    "name": "RAW P45 Primær Loftskinne",
+    "price": 133.03,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-p45-primaer-loftskinne-45-mm-3600-mm?id=4120-9758044"
+  },
+  {
+    "name": "ROLIBA Vinkelprofil, Ligesidet",
+    "price": 74.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-vinkelprofil-ligesidet-20-mm-20-mm-1-m-soelv?id=2760-3934171"
+  },
+  {
+    "name": "HABO Trædyvel",
+    "price": 27.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-traedyvel-10-mm-600-mm?id=2760-6458154"
+  },
+  {
+    "name": "HABO Trædyvel",
+    "price": 34.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-traedyvel-8-0-mm-40-mm-30?id=2760-5399636"
+  },
+  {
+    "name": "FISCHER DuoTec 12 Kipdybel",
+    "price": 285.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fischer-duotec-12-kipdybel-10?id=2703-2368851"
+  },
+  {
+    "name": "BOSCH Dyvelsættersæt 4-pak",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/bosch-dyvelsaettersaet-4-pak-6-mm-4?id=2661-7301526"
+  },
+  {
+    "name": "NKT FASTENERS GDS Trædyvel af Bøg",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-gds-traedyvel-af-boeg-6-mm-40-mm?id=2703-1657852"
+  },
+  {
+    "name": "FESTOOL  DOMINO brikker bøgetræ D 5x30/300 BU",
+    "price": 180.46,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/festool-domino-brikker-boegetrae-d-5x30-300-bu?id=2661-5339411"
+  },
+  {
+    "name": "FESTOOL Domino Brikker Bøgetræ",
+    "price": 180.46,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/festool-domino-brikker-boegetrae-6-mm-40-mm-190?id=2661-5339412"
+  },
+  {
+    "name": "HABO Dækprop",
+    "price": 4.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-daekprop-12-mm-19-mm?id=2703-6458114"
+  },
+  {
+    "name": "HABO Kunststof Dækprop Hvid",
+    "price": 5.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-kunststof-daekprop-hvid-12-16-mm?id=2703-6458140"
+  },
+  {
+    "name": "ROLIBA Trædyvel",
+    "price": 14.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-traedyvel-6-mm-600-mm?id=2760-5996527"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX20",
+    "price": 153.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx20-5-0-mm-100-mm-200?id=2701-9778558"
+  },
+  {
+    "name": "NKT FASTENERS SPUN+ High-Speed Climate-G3 Skrue TX20",
+    "price": 177.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nkt-fasteners-spun-high-speed-climate-g3-skrue-tx20-5-mm-100-mm-100?id=2701-1376735"
+  },
+  {
+    "name": "RAPTOR Vinkel",
+    "price": 22.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-vinkel-35-mm-50-mm-2-mm-50-mm?id=2741-9766289"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX30",
+    "price": 192.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx30-6-0-mm-150-mm-100?id=2701-9778574"
+  },
+  {
+    "name": "RAPTOR Vinkel",
+    "price": 13.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-vinkel-20-mm-40-mm-2-mm-40-mm?id=2741-9766275"
+  },
+  {
+    "name": "RAPTOR Patent-/Hulbånd",
+    "price": 329,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-patent-hulbaand-0-7-mm-17-mm-10-m?id=2741-9766343"
+  },
+  {
+    "name": "RAPTOR C4 Træskrue TX10",
+    "price": 164.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-c4-traeskrue-tx10-3-mm-40-mm-400?id=2701-9778525"
+  },
+  {
+    "name": "SIMPSON STRONG-TIE Vinkelbeslag med Nøglehulsribbe",
+    "price": 3.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/simpson-strong-tie-vinkelbeslag-med-noeglehulsribbe-88-mm-65-mm-88-mm-2-mm?id=2741-1241531"
+  },
+  {
+    "name": "RAPTOR Normplade",
+    "price": 36.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-normplade-2-mm-100-mm-200-mm?id=2741-9766330"
+  },
+  {
+    "name": "RAPTOR TX20 Beslagskruer",
+    "price": 381.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-tx20-beslagskruer-5-mm-40-mm-1200?id=2701-9840400"
+  },
+  {
+    "name": "B6-S Bølgeplade HJ/HU",
+    "price": 272,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/b6-s-boelgeplade-hj-hu-1090-mm-1180-mm-sortblaa?id=8200-1617002"
+  },
+  {
+    "name": "B6-S Bølgeplade FK med Strips",
+    "price": 272,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/b6-s-boelgeplade-fk-med-strips-1090-mm-1180-mm-sortblaa?id=8200-1616987"
+  },
+  {
+    "name": "B7 Bølgeplade HJ/HU",
+    "price": 151,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/b7-boelgeplade-hj-hu-1100-mm-570-mm-sortblaa?id=8200-1617025"
+  },
+  {
+    "name": "B7 Bølgeplade FK",
+    "price": 151,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/b7-boelgeplade-fk-1100-mm-570-mm-sortblaa?id=8200-1617012"
+  },
+  {
+    "name": "RIAS Rodena B6 Bølgeplade",
+    "price": 264,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-rodena-b6-boelgeplade-1086-mm-1220-mm-klar?id=9240-7802788"
+  },
+  {
+    "name": "SWISSPEARL Ovenlysplade PC B6",
+    "price": 412,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-ovenlysplade-pc-b6-0-9-mm-1086-mm-1220-mm-glasklar?id=8220-1845905"
+  },
+  {
+    "name": "RIAS Sunlux B9 Ovenlysplade",
+    "price": 462,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-sunlux-b9-ovenlysplade-1020-mm-1220-mm-klar?id=9240-5195067"
+  },
+  {
+    "name": "SWISSPEARL Ovenlysplade PC B9-S Max",
+    "price": 412,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-ovenlysplade-pc-b9-s-max-0-9-mm-1167-mm-1220-mm-glasklar?id=8220-1845912"
+  },
+  {
+    "name": "SWISSPEARL Ovenlysplade PC B9",
+    "price": 374,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-ovenlysplade-pc-b9-0-9-mm-1020-mm-1220-mm-glasklar?id=8220-1845908"
+  },
+  {
+    "name": "SWISSPEARL  Toscana Tagprofil HJ/HU",
+    "price": 212,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-toscana-tagprofil-hj-hu-6-3-mm-1166-mm-625-mm-sort?id=8200-1650752"
+  },
+  {
+    "name": "SWISSPEARL B5 Skumbølgeklods",
+    "price": 24.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b5-skumboelgeklods-25-mm-915-mm-sort?id=8220-2282721"
+  },
+  {
+    "name": "SWISSPEARL B7 Plastudhængsklods uden Ventilation",
+    "price": 36.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b7-plastudhaengsklods-uden-ventilation-30-mm-1022-mm-sort?id=8220-2282689"
+  },
+  {
+    "name": "SWISSPEARL T5 Skumbølgeklods",
+    "price": 61.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-t5-skumboelgeklods-25-mm-1068-mm?id=8220-4791661"
+  },
+  {
+    "name": "SWISSPEARL T1 Skumbølgeklods",
+    "price": 44.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-t1-skumboelgeklods-25-mm-945-mm-sort?id=8220-4791620"
+  },
+  {
+    "name": "SWISSPEARL T2 Skumbølgeklods",
+    "price": 48.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-t2-skumboelgeklods-25-mm-1035-mm-sort?id=8220-4791638"
+  },
+  {
+    "name": "SWISSPEARL B9 Plastudhængsklods uden Ventilation",
+    "price": 36.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b9-plastudhaengsklods-uden-ventilation-30-mm-885-mm-sort?id=8220-2282705"
+  },
+  {
+    "name": "SWISSPEARL B9-S Max Plastudhængsklods uden Ventilation",
+    "price": 42.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b9-s-max-plastudhaengsklods-uden-ventilation-30-mm-1053-mm-sort?id=8220-1339656"
+  },
+  {
+    "name": "SWISSPEARL B6 Skumbølgeklods",
+    "price": 27.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b6-skumboelgeklods-25-mm-1030-mm-sort?id=8220-2282739"
+  },
+  {
+    "name": "SWISSPEARL Skumstrimmel",
+    "price": 78.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-skumstrimmel-4-5-mm-9-mm-20-m-sort?id=8220-5130401"
+  },
+  {
+    "name": "SWISSPEARL B6 Plastudhængsklods med Ventilation",
+    "price": 32.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-b6-plastudhaengsklods-med-ventilation-1013-mm-sort?id=8220-2549137"
+  },
+  {
+    "name": "ICOPAL Quadro Tagplade",
+    "price": 516,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-quadro-tagplade-399-mm-1250-mm-sort?id=9400-1876232"
+  },
+  {
+    "name": "ICOPAL Topsafe Tagpap",
+    "price": 1780,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-topsafe-tagpap-1-m-5-m?id=9100-8006157"
+  },
+  {
+    "name": "ICOPAL Top 500 P Tagpap med Klæbekant",
+    "price": 1179,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-top-500-p-tagpap-med-klaebekant-1-m-5-m-sort?id=9100-1636504"
+  },
+  {
+    "name": "ICOPAL Top 500 P Tagpap uden Klæbekant",
+    "price": 611,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-top-500-p-tagpap-uden-klaebekant-0-33-m-7-5-m-sort?id=9100-4275723"
+  },
+  {
+    "name": "ICOPAL Top 400 P Tagpap",
+    "price": 862,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-top-400-p-tagpap-1-m-5-m-sort?id=9100-5217168"
+  },
+  {
+    "name": "ICOPAL Base 23092 Selvklæber Underpap",
+    "price": 1166,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-base-23092-selvklaeber-underpap-1-m-7-5-m?id=9100-1490698"
+  },
+  {
+    "name": "ICOPAL Base 450 P Tagpap",
+    "price": 1480,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-base-450-p-tagpap-1-m-8-m?id=9100-5249903"
+  },
+  {
+    "name": "ISOLA Mestertekk SBS Tagbelægning",
+    "price": 1028,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-mestertekk-sbs-tagbelaegning-1-m-7-m-sort?id=9100-1279580"
+  },
+  {
+    "name": "ISOLA Kraftunderlag",
+    "price": 473,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-kraftunderlag-0-33-m-10-m?id=9100-2148562"
+  },
+  {
+    "name": "ISOLA Overlag uden Svejsekant",
+    "price": 497,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-overlag-uden-svejsekant-330-mm-8-m-sort?id=9100-2418852"
+  },
+  {
+    "name": "ICOPAL Selvklæber Top Sort",
+    "price": 541,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-selvklaeber-top-sort-0-33-m-5-m-sort?id=9100-1490718"
+  },
+  {
+    "name": "ISOLA Trekantsliste",
+    "price": 162,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-trekantsliste-sort?id=9100-1550356"
+  },
+  {
+    "name": "ISOLA Trekantliste Montagebeslag",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-trekantliste-montagebeslag?id=9100-1550392"
+  },
+  {
+    "name": "ISOLA Endeluk til Trekantsliste Type 2",
+    "price": 51.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-endeluk-til-trekantsliste-type-2-sort?id=9400-1550386"
+  },
+  {
+    "name": "ICOPAL 75 Flextagbrønd med Skørt",
+    "price": 1247,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-75-flextagbroend-med-skoert-60-75-mm-graa?id=9100-1445603"
+  },
+  {
+    "name": "ISOLA Træskrue med Påmonteret Skive",
+    "price": 1255,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-traeskrue-med-paamonteret-skive-25-mm-250?id=9100-2002932"
+  },
+  {
+    "name": "ICOPAL Tagasfalt",
+    "price": 534,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-tagasfalt-5-l?id=9100-1029982"
+  },
+  {
+    "name": "ISOLA Flexitæt Lap til Forsegling",
+    "price": 110.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-flexitaet-lap-til-forsegling-200-mm-200-mm-5-mm?id=9100-1279470"
+  },
+  {
+    "name": "RAW Papliste Egaliseret 45x45 mm",
+    "price": 83.9,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-papliste-egaliseret-45x45-mm-5100-mm?id=1705-05005090510"
+  },
+  {
+    "name": "ICOPAL I Ventilationshætte",
+    "price": 736,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-i-ventilationshaette-75-mm?id=9100-5688287"
+  },
+  {
+    "name": "ICOPAL Sort Flexhætte",
+    "price": 3140,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-sort-flexhaette?id=9100-5240898"
+  },
+  {
+    "name": "RAW Alu Tagfod",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-tagfod-100-mm-1000-mm-3b-uden-asfalt?id=9400-9730763"
+  },
+  {
+    "name": "RAW Alu Universalkapsel Kvalitet 3S",
+    "price": 71.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-universalkapsel-kvalitet-3s-9a?id=9400-9730779"
+  },
+  {
+    "name": "RAW Alu Fugeskinne med Nitte Kvalitet 2S 14B",
+    "price": 74.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-fugeskinne-med-nitte-kvalitet-2s-14b-49-mm-1000-mm?id=9400-9730794"
+  },
+  {
+    "name": "RAW Alu-Murkrone 4A TMSB02012",
+    "price": 122.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-murkrone-4a-tmsb02012-sort?id=9400-9757175"
+  },
+  {
+    "name": "RAW Alu-Limtræsprofil 13A 115mm",
+    "price": 200,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-limtraesprofil-13a-115mm?id=9400-9757984"
+  },
+  {
+    "name": "RAW Alu-Murkrone 4B",
+    "price": 153,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-murkrone-4b?id=9400-9757176"
+  },
+  {
+    "name": "RAW Alu-Skotrende 1B med 2 False",
+    "price": 345,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-skotrende-1b-med-2-false?id=9400-9757161"
+  },
+  {
+    "name": "RAW Alu Tagfod Kvalitet 2S",
+    "price": 45.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-tagfod-kvalitet-2s-80-mm-1000-mm-3d-u-asfalt?id=9400-9730761"
+  },
+  {
+    "name": "RAW Alu Vindskede med Asfalt",
+    "price": 69.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-vindskede-med-asfalt-64-mm-92-mm-1000-mm-5a-kvalitet-3s?id=9400-9730766"
+  },
+  {
+    "name": "RAW Alu Murklemskinne Kvalitet 2S",
+    "price": 79.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-murklemskinne-kvalitet-2s-30-mm-1000-mm?id=9400-9730793"
+  },
+  {
+    "name": "DANTEGL Rygningssten Rød",
+    "price": 195,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dantegl-rygningssten-roed-roed?id=6201-7921695"
+  },
+  {
+    "name": "IBF Dobbelt-S Tagsten",
+    "price": 18.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ibf-dobbelt-s-tagsten-332-mm-420-mm-sort?id=6320-1553437"
+  },
+  {
+    "name": "RANDERS TEGL 806 Vingetegl",
+    "price": 18.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-806-vingetegl-247-mm-405-mm?id=6201-8367385"
+  },
+  {
+    "name": "DANTEGL GD Vingetagsten Rød",
+    "price": 23.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dantegl-gd-vingetagsten-roed?id=6201-7922305"
+  },
+  {
+    "name": "DANTEGL GD Teglsten Dobbeltvinget",
+    "price": 178,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dantegl-gd-teglsten-dobbeltvinget-255-mm-404-mm?id=6201-7921703"
+  },
+  {
+    "name": "RANDERS TEGL Ny Højslev Rygningssten",
+    "price": 132,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-ny-hoejslev-rygningssten-380-mm?id=6201-5969382"
+  },
+  {
+    "name": "IBF Lang Rygningssten",
+    "price": 117.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ibf-lang-rygningssten-sort?id=6320-4678082"
+  },
+  {
+    "name": "RANDERS TEGL 806 Dobbeltvinget Vingetegl",
+    "price": 133,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-806-dobbeltvinget-vingetegl-292-mm-405-mm?id=6201-8367591"
+  },
+  {
+    "name": "GENTEGL Vingetegl Teglrød",
+    "price": 15,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/gentegl-vingetegl-teglroed-24-cm-41-cm?id=1400-9801049"
+  },
+  {
+    "name": "DANTEGL Økonomi Dobbeltvinget Teglsten Rød",
+    "price": 178,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dantegl-oekonomi-dobbeltvinget-teglsten-roed-255-mm-415-mm-roed?id=6201-7921729"
+  },
+  {
+    "name": "RAW Rygningsbånd",
+    "price": 700,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-rygningsbaand-310-mm-5-m-sort?id=6321-9707196"
+  },
+  {
+    "name": "MONIER  B&C Strips",
+    "price": 662,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/monier-b-c-strips-sort-9?id=6321-5105694"
+  },
+  {
+    "name": "MONIER Metalroll 260-320 mm",
+    "price": 1480,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/monier-metalroll-260-320-mm-sort?id=6321-5157002"
+  },
+  {
+    "name": "MONIER Modultrin",
+    "price": 401,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/monier-modultrin-roed?id=6201-1372713"
+  },
+  {
+    "name": "MONIER T3856/3878 Bindere",
+    "price": 1290,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/monier-t3856-3878-bindere-200?id=6209-5920961"
+  },
+  {
+    "name": "DANTEGL Rygningsbeslag",
+    "price": 692,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dantegl-rygningsbeslag-roed-50?id=6201-1372714"
+  },
+  {
+    "name": "RANDERS TEGL JP-Bindere til Lille Tagsten 200-pak",
+    "price": 1131,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-jp-bindere-til-lille-tagsten-200-pak?id=6209-8368185"
+  },
+  {
+    "name": "IBF D.S. Rustfri Bindere",
+    "price": 1480,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ibf-d-s-rustfri-bindere-38x73-mm-500?id=6321-5158601"
+  },
+  {
+    "name": "MONIER Figaroll Plus Inddækning",
+    "price": 879,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/monier-figaroll-plus-inddaekning-antracit?id=6321-1446604"
+  },
+  {
+    "name": "RANDERS TEGL Højslev Rygningsbeslag",
+    "price": 899,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-hoejslev-rygningsbeslag-30?id=6201-8368235"
+  },
+  {
+    "name": "RAW Fast Flash Seal 750 ml",
+    "price": 469,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fast-flash-seal-750-ml-1-13-kg-graa?id=6321-9713566"
+  },
+  {
+    "name": "RAW Fast Flash Klæber 290 ml",
+    "price": 150,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fast-flash-klaeber-290-ml-290-ml-teglroed?id=6321-9713565"
+  },
+  {
+    "name": "SIKA Multiseal",
+    "price": 149,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/sika-multiseal-100-mm-3-m-moerkegraa?id=6380-5989698"
+  },
+  {
+    "name": "SIKA Sikaflex®-121 Roof Tiles Tagstensklæber",
+    "price": 153.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/sika-sikaflex-121-roof-tiles-tagstensklaeber-teglroed-290-ml?id=2840-2258031"
+  },
+  {
+    "name": "ICOPAL Tagklæber",
+    "price": 179,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-tagklaeber-0-3-l?id=9100-5179199"
+  },
+  {
+    "name": "BORUP Tagtæt",
+    "price": 109.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/borup-tagtaet-sort-300-ml?id=9100-4872917"
+  },
+  {
+    "name": "ICOPAL Tagpapklæber",
+    "price": 645,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-tagpapklaeber-5-l?id=9100-1030279"
+  },
+  {
+    "name": "ISOLA ATB Fugemasse",
+    "price": 169,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-atb-fugemasse-300-ml?id=9240-2321178"
+  },
+  {
+    "name": "ISOLA Undertagstape",
+    "price": 384,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-undertagstape-1-1-mm-75-mm-25-mm?id=9100-1432354"
+  },
+  {
+    "name": "ICOPAL Tagkit",
+    "price": 137,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-tagkit-0-32-l?id=9100-1553767"
+  },
+  {
+    "name": "RIAS Riatherm Termoplader UV 2-Lags Klar",
+    "price": 916,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-riatherm-termoplader-uv-2-lags-klar-4-mm-1050-mm-2000-mm-klar?id=9240-1271793"
+  },
+  {
+    "name": "TWINLITE Tape til Termoplader",
+    "price": 396,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/twinlite-tape-til-termoplader-10-m?id=9240-3787470"
+  },
+  {
+    "name": "PLASTMO Twinlite Samleprofil i Hvid",
+    "price": 2560,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-twinlite-samleprofil-i-hvid-45-mm-20-m?id=9240-5046521"
+  },
+  {
+    "name": "RIAS Riatherm Termotag X-struktur 10 mm",
+    "price": 1830,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-riatherm-termotag-x-struktur-10-mm-700-mm-3000-mm-opal?id=9240-3865607"
+  },
+  {
+    "name": "PLASTMO Twinlite Indskud i Mur i Alu",
+    "price": 97.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-twinlite-indskud-i-mur-i-alu-1000-mm?id=9240-3643574"
+  },
+  {
+    "name": "RIAS H-Samleprofil",
+    "price": 232,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-h-samleprofil-10-mm-3200-mm-glasklar?id=9240-1900477"
+  },
+  {
+    "name": "RIAS Monteringsskrue til Termoplade",
+    "price": 156,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-monteringsskrue-til-termoplade-40-mm-75?id=9240-1797932"
+  },
+  {
+    "name": "PLASTMO Twinlite Termoplade PC Opal",
+    "price": 3380,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-twinlite-termoplade-pc-opal-16-mm-980-mm-3000-mm?id=9240-7639313"
+  },
+  {
+    "name": "PLASTMO Twinlite Underlagsbånd",
+    "price": 470,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-twinlite-underlagsbaand-8-m?id=9240-3643087"
+  },
+  {
+    "name": "PLASTMO EcoLite PVC Trapezplade",
+    "price": 279,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-ecolite-pvc-trapezplade-1090-mm-3600-mm-blaatonet?id=9240-5191094"
+  },
+  {
+    "name": "PLASTMO Ecolite Tætningsprofil",
+    "price": 421,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-ecolite-taetningsprofil-hvid-1050-mm-10?id=9240-9517570"
+  },
+  {
+    "name": "PLASTMO Trapez Topskrue med Borevinge",
+    "price": 200,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-trapez-topskrue-med-borevinge-50?id=9240-1726501"
+  },
+  {
+    "name": "PLASTMO Jumbolite Tætningsprofil, Hvid",
+    "price": 26.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-jumbolite-taetningsprofil-hvid-1050-mm-hvid?id=9240-5698054"
+  },
+  {
+    "name": "PLASTMO Ecolite Tætningsprofil",
+    "price": 35.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-ecolite-taetningsprofil-105-cm?id=9240-5698053"
+  },
+  {
+    "name": "PLASTMO JumboLite PVC Trapezplade",
+    "price": 882,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-jumbolite-pvc-trapezplade-1060-mm-3600-mm-opal?id=9240-5191113"
+  },
+  {
+    "name": "PLASTMO Topinddækning",
+    "price": 346,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-topinddaekning-25-mm-80-mm-1100-mm?id=9240-5139698"
+  },
+  {
+    "name": "PLASTMO Twinlite Sternafdækning til 10/16 mm",
+    "price": 112.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-twinlite-sternafdaekning-til-10-16-mm?id=9240-3643582"
+  },
+  {
+    "name": "PLASTMO JärboPro PC Trapezplade",
+    "price": 1415,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-järbopro-pc-trapezplade-1040-mm-4200-mm-opal?id=9240-1494185"
+  },
+  {
+    "name": "RIAS Rodena 70/16 Skumtætning Trapez",
+    "price": 181,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-rodena-70-16-skumtaetning-trapez-700-mm-hvid-10?id=9240-3044500"
+  },
+  {
+    "name": "RAW Ventistuds Universal Udvendig",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ventistuds-universal-udvendig?id=9220-9703114"
+  },
+  {
+    "name": "RAW Undertagsstrammer med Strip",
+    "price": 297.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-undertagsstrammer-med-strip-50?id=9220-9703113"
+  },
+  {
+    "name": "RAW Quick Undertagsstrammer",
+    "price": 1480,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-quick-undertagsstrammer?id=9220-9709693"
+  },
+  {
+    "name": "RAW Rørgennemføring",
+    "price": 218,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-roergennemfoering-150-mm-150-mm?id=9220-9703112"
+  },
+  {
+    "name": "RAW Undertag Roof Pro 280",
+    "price": 2527.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-undertag-roof-pro-280-1-1-m-50-m?id=6321-9757556"
+  },
+  {
+    "name": "RAW Universal Ventistuds, Indvendig",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-universal-ventistuds-indvendig-sort?id=9220-9703115"
+  },
+  {
+    "name": "RAW Roof Pro 400 Undertag",
+    "price": 2637.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-roof-pro-400-undertag-0-8-mm-1-1-m-50-m?id=6321-9757314"
+  },
+  {
+    "name": "ICOPAL 512P FastSafe Undertag",
+    "price": 928,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-512p-fastsafe-undertag-2-2-mm-1-m-10-m?id=9100-5688126"
+  },
+  {
+    "name": "ISOLA Undertag IsoSteel",
+    "price": 785,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-undertag-isosteel-1000-mm-12000-mm?id=9100-2137380"
+  },
+  {
+    "name": "ISOLA Undertag Iso-D Xtra",
+    "price": 1255,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-undertag-iso-d-xtra-0-9-mm-1-m-25-m?id=9100-2376854"
+  },
+  {
+    "name": "PLASTMO Nr. 11 Tagrende, Stål Plus",
+    "price": 832,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-11-tagrende-staal-plus-6-m?id=9400-1548393"
+  },
+  {
+    "name": "PLASTMO Retro 280 mm Tagrende, Zink",
+    "price": 550,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-retro-280-mm-tagrende-zink-3-m?id=9400-5353534"
+  },
+  {
+    "name": "PLASTMO Nr. 11 Tagrende, PVC",
+    "price": 530,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-11-tagrende-pvc-3-m-graa?id=9200-8621252"
+  },
+  {
+    "name": "PLASTMO Nr. 10 Tagrende PVC",
+    "price": 831,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-10-tagrende-pvc-hvid-6-m?id=9200-8621153"
+  },
+  {
+    "name": "PLASTMO Nr. 12 Tagrende PVC",
+    "price": 988,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-12-tagrende-pvc-graa-4-m?id=9200-8621401"
+  },
+  {
+    "name": "PLASTMO Nr. 11 Tagrende, Aluzink",
+    "price": 317,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-11-tagrende-aluzink-3-m?id=9400-1425188"
+  },
+  {
+    "name": "RHEINZINK Halvrund Tagrende 3 m",
+    "price": 632,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rheinzink-halvrund-tagrende-3-m-280-mm-0-7-mm-blank?id=9400-5252775"
+  },
+  {
+    "name": "LINDAB Rainline R Tagrende",
+    "price": 1036.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lindab-rainline-r-tagrende-125-mm-6000-mm-staalmetalic?id=9400-5842086"
+  },
+  {
+    "name": "PLASTMO Nr. 12  Tagrende, Stål plus",
+    "price": 551,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-nr-12-tagrende-staal-plus?id=9400-1548461"
+  },
+  {
+    "name": "PLASTMO Tagrende nr 12",
+    "price": 1103,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-tagrende-nr-12?id=9400-1548460"
+  },
+  {
+    "name": "RAW Posenedløb, Plast",
+    "price": 1615,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-posenedloeb-plast?id=9200-5258025"
+  },
+  {
+    "name": "PLASTMO 75 mm Udkaster",
+    "price": 129,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-75-mm-udkaster-graa?id=9200-1093806"
+  },
+  {
+    "name": "PLASTMO 75 mm Hængselstift til Træ",
+    "price": 70.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-75-mm-haengselstift-til-trae?id=9200-1093871"
+  },
+  {
+    "name": "CLASSIC 80 mm Rørholder til Beton",
+    "price": 95.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/classic-80-mm-roerholder-til-beton?id=9400-9545473"
+  },
+  {
+    "name": "PLASTMO Tagrende 11 Konsoljern Galvaniseret",
+    "price": 62.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-tagrende-11-konsoljern-galvaniseret?id=9200-1093517"
+  },
+  {
+    "name": "PLASTMO Retro 280 mm Endebund, Zink",
+    "price": 119.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-retro-280-mm-endebund-zink?id=9400-5353537"
+  },
+  {
+    "name": "PLASTMO 75 mm Grenrør, Aluzink",
+    "price": 687,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-75-mm-grenroer-aluzink?id=9400-1425286"
+  },
+  {
+    "name": "PLASTMO 75 mm Vandudviser med Klap",
+    "price": 858,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-75-mm-vandudviser-med-klap?id=9200-2231140"
+  },
+  {
+    "name": "PLASTMO 90 mm Nr. 11 Tudstykke",
+    "price": 199,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-90-mm-nr-11-tudstykke-graa?id=9200-2231785"
+  },
+  {
+    "name": "PLASTMO Retro Vandudviser med Klap",
+    "price": 782,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plastmo-retro-vandudviser-med-klap?id=9400-5353550"
+  },
+  {
+    "name": "RAW Fast Flash Inddækning",
+    "price": 1270,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fast-flash-inddaekning-28-cm-500-cm-sort?id=6321-9713555"
+  },
+  {
+    "name": "RAW Fuglegitter uden Ventilationm",
+    "price": 11.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fuglegitter-uden-ventilationm-1000-mm-sort?id=6321-9703106"
+  },
+  {
+    "name": "RAW Fuglegitter med Ventilation",
+    "price": 25.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fuglegitter-med-ventilation-sort?id=6321-9703108"
+  },
+  {
+    "name": "RAW Fuglegitter uden Ventilation",
+    "price": 61.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fuglegitter-uden-ventilation-5000-mm-sort?id=6321-9703110"
+  },
+  {
+    "name": "EXPO-NET Snefangsrør med Sømkant",
+    "price": 140.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/expo-net-snefangsroer-med-soemkant-32-mm-4-m-sort?id=2280-5264027"
+  },
+  {
+    "name": "DAFA Butylbånd til Glasisætning",
+    "price": 460.9,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dafa-butylbaand-til-glasisaetning-10-mm-22-m?id=2280-2834307"
+  },
+  {
+    "name": "DAFA Cell Gummiliste",
+    "price": 2013.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dafa-cell-gummiliste-8-mm-225-m-sort?id=2280-1259373"
+  },
+  {
+    "name": "EXPO-NET Sne og Fuglestop t/B6",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/expo-net-sne-og-fuglestop-t-b6-sort?id=8220-1691522"
+  },
+  {
+    "name": "ICOPAL Icoair Ventilationsstuds",
+    "price": 725,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-icoair-ventilationsstuds-153-mm-sort-10?id=9220-1411528"
+  },
+  {
+    "name": "EXPO-NET Sne og Fuglestop t/B7",
+    "price": 40.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/expo-net-sne-og-fuglestop-t-b7-1040-mm-sort?id=8220-2295396"
+  },
+  {
+    "name": "SWISSPEARL Skifer Tag HJ/HU",
+    "price": 38.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-skifer-tag-hj-hu-4-mm-300-mm-600-mm-sortblaa?id=8200-5605926"
+  },
+  {
+    "name": "SWISSPEARL Skifer Tag FK",
+    "price": 38.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-skifer-tag-fk-4-mm-300-mm-600-mm-sortblaa?id=8200-5871138"
+  },
+  {
+    "name": "SWISSPEARL 40x40 Diagonal Skifer",
+    "price": 54.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-40x40-diagonal-skifer-4-mm-400-mm-400-mm?id=8200-5871137"
+  },
+  {
+    "name": "RAW Fast Flash Inddækning",
+    "price": 1270,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fast-flash-inddaekning-28-cm-500-cm-sort?id=6321-9713555"
+  },
+  {
+    "name": "RAW Alu Tagfod",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-tagfod-100-mm-1000-mm-3b-uden-asfalt?id=9400-9730763"
+  },
+  {
+    "name": "RAW Ventistuds Universal Udvendig",
+    "price": 55.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ventistuds-universal-udvendig?id=9220-9703114"
+  },
+  {
+    "name": "RAW Alu Universalkapsel Kvalitet 3S",
+    "price": 71.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-universalkapsel-kvalitet-3s-9a?id=9400-9730779"
+  },
+  {
+    "name": "RAW Undertagsstrammer med Strip",
+    "price": 297.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-undertagsstrammer-med-strip-50?id=9220-9703113"
+  },
+  {
+    "name": "RAW Quick Undertagsstrammer",
+    "price": 1480,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-quick-undertagsstrammer?id=9220-9709693"
+  },
+  {
+    "name": "RAW Alu Fugeskinne med Nitte Kvalitet 2S 14B",
+    "price": 74.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-fugeskinne-med-nitte-kvalitet-2s-14b-49-mm-1000-mm?id=9400-9730794"
+  },
+  {
+    "name": "RAW Alu-Murkrone 4A TMSB02012",
+    "price": 122.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-murkrone-4a-tmsb02012-sort?id=9400-9757175"
+  },
+  {
+    "name": "RAW Rørgennemføring",
+    "price": 218,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-roergennemfoering-150-mm-150-mm?id=9220-9703112"
+  },
+  {
+    "name": "RAW Alu-Limtræsprofil 13A 115mm",
+    "price": 200,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-alu-limtraesprofil-13a-115mm?id=9400-9757984"
+  },
+  {
+    "name": "AALBORG PORTLAND Basis Cement",
+    "price": 97.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/aalborg-portland-basis-cement-25-kg?id=6100-8321663"
+  },
+  {
+    "name": "RAW Tørbeton Fin 0-4 mm",
+    "price": 77.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-toerbeton-fin-0-4-mm-20-kg?id=6220-9748965"
+  },
+  {
+    "name": "RAW Tørbeton Grov 0-8 mm",
+    "price": 73.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-toerbeton-grov-0-8-mm-20-kg?id=6220-9748966"
+  },
+  {
+    "name": "RAW Strandmørtel 7,7% 0-2 mm",
+    "price": 76.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-strandmoertel-7-7-0-2-mm-15-l?id=6223-9549585"
+  },
+  {
+    "name": "RAW Pudsemørtel Bakkesand",
+    "price": 99.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pudsemoertel-bakkesand-20-kg?id=6220-9748961"
+  },
+  {
+    "name": "RAW Muremørtel Bakkesand",
+    "price": 103.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-muremoertel-bakkesand-20-kg?id=6220-9748963"
+  },
+  {
+    "name": "RAW Reperationsmørtel",
+    "price": 98.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reperationsmoertel-300-ml?id=2840-9801480"
+  },
+  {
+    "name": "RAW Sokkelpuds C 100/400",
+    "price": 99.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-sokkelpuds-c-100-400-20-kg?id=6220-9748969"
+  },
+  {
+    "name": "RAW Pudsemørtel Bakkesand",
+    "price": 99.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pudsemoertel-bakkesand-20-kg?id=6220-9748960"
+  },
+  {
+    "name": "RAW Muremørtel Bakkesand",
+    "price": 99.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-muremoertel-bakkesand-20-kg?id=6220-9748962"
+  },
+  {
+    "name": "RAW Flise/Muregrus 0-4 mm",
+    "price": 59.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-flise-muregrus-0-4-mm-15-l?id=6620-9549587"
+  },
+  {
+    "name": "RAW Strandsand 0-2 mm",
+    "price": 59.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-strandsand-0-2-mm-15-l?id=6620-9587770"
+  },
+  {
+    "name": "RAW Flise-/Muregrus Bakkesand 0-4 mm i BigBag",
+    "price": 1137,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-flise-muregrus-bakkesand-0-4-mm-i-bigbag-500-l?id=6620-9580578"
+  },
+  {
+    "name": "RAW Støbemix 0-16 mm i BigBag",
+    "price": 1008,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stoebemix-0-16-mm-i-bigbag-500-l?id=6620-9555544"
+  },
+  {
+    "name": "DANSAND Danfugesand",
+    "price": 142,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansand-danfugesand-20-kg?id=6620-9663607"
+  },
+  {
+    "name": "WEBER Kvartssand, Ovntørret 0,3-1 mm",
+    "price": 107.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/weber-kvartssand-ovntoerret-0-3-1-mm-20-kg?id=6620-1450513"
+  },
+  {
+    "name": "DANSAND Top Lock Belægningsmørtel",
+    "price": 286,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dansand-top-lock-belaegningsmoertel-natur-20-kg?id=6620-1453793"
+  },
+  {
+    "name": "RAW Stabilgrus i BigBag  0-32 mm",
+    "price": 1010,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stabilgrus-i-bigbag-0-32-mm-500-l?id=6620-9632625"
+  },
+  {
+    "name": "RAW Strandsand 0-2 mm i BigBag",
+    "price": 1117,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-strandsand-0-2-mm-i-bigbag-500-l?id=6620-9580579"
+  },
+  {
+    "name": "IBF Fugesand",
+    "price": 108.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ibf-fugesand-20-kg?id=6620-1276408"
+  },
+  {
+    "name": "RAPTOR Selvklæbende Glasfiberarmeringsvæv",
+    "price": 87.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-selvklaebende-glasfiberarmeringsvaev-50-mm-100-m?id=2840-9777755"
+  },
+  {
+    "name": "RAW Murværksarmering",
+    "price": 2359,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-murvaerksarmering-4-mm-3050-mm?id=2703-9699153"
+  },
+  {
+    "name": "RAW Armeringsvæv",
+    "price": 1059,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-armeringsvaev-1-m-50-m?id=6220-9748972"
+  },
+  {
+    "name": "LEMVIGH-MÜLLER Afstandsholder ZZ-Iso",
+    "price": 19.9,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lemvigh-müller-afstandsholder-zz-iso-25-mm-2000-mm?id=6600-2412157"
+  },
+  {
+    "name": "SKALFLEX Armeringsstål",
+    "price": 118.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skalflex-armeringsstaal-6-mm-3000-mm-1?id=6600-1328412"
+  },
+  {
+    "name": "Svejst Armeringsnet 6 mm - DS-Godkendt",
+    "price": 299.81,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/svejst-armeringsnet-6-mm-ds-godkendt-1-5-m-2-5-m?id=6600-5930033"
+  },
+  {
+    "name": "SKALFLEX Armeringsnet",
+    "price": 1415,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skalflex-armeringsnet-1-m-50-m?id=6225-5852108"
+  },
+  {
+    "name": "Ribbet Armeringsstål - DS Godkendt",
+    "price": 152.2,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ribbet-armeringsstaal-ds-godkendt-12-mm-6100-mm?id=6600-5733059"
+  },
+  {
+    "name": "WEBER Therm 400 Startliste",
+    "price": 571,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/weber-therm-400-startliste-250-mm-2500-mm?id=4400-1305647"
+  },
+  {
+    "name": "LEWIS Svalehaleplade",
+    "price": 786.24,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lewis-svalehaleplade-630-mm-2000-mm?id=6600-4822706"
+  },
+  {
+    "name": "RAW Stolpebeton",
+    "price": 56.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stolpebeton-20-kg?id=6220-9777638"
+  },
+  {
+    "name": "YTONG Plade",
+    "price": 59.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ytong-plade-75-mm-400-mm-600-mm?id=6400-5224829"
+  },
+  {
+    "name": "YTONG Samlebeslag",
+    "price": 25.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ytong-samlebeslag-200?id=6400-5224867"
+  },
+  {
+    "name": "MARSHALLTOWN FR36RAA  Multi-Mount Fresnos",
+    "price": 504,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/marshalltown-fr36raa-multi-mount-fresnos?id=2640-9812967"
+  },
+  {
+    "name": "YTONG Bærende Overligger",
+    "price": 1097,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ytong-baerende-overligger-100-mm-260-mm-1170-mm?id=6400-5228719"
+  },
+  {
+    "name": "YTONG Vinkelbeslag i Kasse",
+    "price": 2235,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ytong-vinkelbeslag-i-kasse-100?id=6400-1912523"
+  },
+  {
+    "name": "YTONG Ikke-bærende Overligger",
+    "price": 732,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ytong-ikke-baerende-overligger-100-mm-250-mm-1250-mm?id=6400-5228713"
+  },
+  {
+    "name": "SKAMOWALL Skamol Board Isoleringsplade",
+    "price": 227,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skamowall-skamol-board-isoleringsplade-25-mm-610-mm-1000-mm?id=6400-1919297"
+  },
+  {
+    "name": "RC BETON Fundamentblokke 20x50 cm",
+    "price": 42.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-fundamentblokke-20x50-cm-20-cm-33-cm-50-cm?id=6300-1285040"
+  },
+  {
+    "name": "RC BETON Fundablokke 20x50 cm",
+    "price": 31.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-fundablokke-20x50-cm-20-cm-15-cm-50-cm?id=6300-5350034"
+  },
+  {
+    "name": "RC BETON Scan Blok",
+    "price": 28.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-scan-blok-19-cm-10-cm-49-cm?id=6520-1306398"
+  },
+  {
+    "name": "RC BETON Scan Isoblok",
+    "price": 159,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-scan-isoblok-19-cm-39-cm-49-cm?id=6520-1307710"
+  },
+  {
+    "name": "RC BETON Scan Blok Mursten",
+    "price": 10.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-scan-blok-mursten-5-7-cm-11-cm-23-cm?id=6520-1307707"
+  },
+  {
+    "name": "RBR Scan Isoblok Hjørne 12cm Vanger - 15cm Isolering",
+    "price": 188,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rbr-scan-isoblok-hjoerne-12cm-vanger-15cm-isolering-39-cm-19-cm-25-cm?id=6520-1653077"
+  },
+  {
+    "name": "FC BETON Letblok",
+    "price": 34.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fc-beton-letblok-19-cm-10-cm-49-cm?id=6520-2659365"
+  },
+  {
+    "name": "FC BETON Lecamursten",
+    "price": 10.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fc-beton-lecamursten-5-5-cm-11-cm-23-cm?id=6520-2659431"
+  },
+  {
+    "name": "FC BETON Letplade",
+    "price": 116.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fc-beton-letplade-10-cm-40-cm-60-cm?id=6520-5360960"
+  },
+  {
+    "name": "FC BETON Termblok, Let",
+    "price": 190,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fc-beton-termblok-let-19-cm-39-cm-49-cm?id=6520-5360969"
+  },
+  {
+    "name": "RC BETON Scan Skillerumsplade",
+    "price": 100.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-beton-scan-skillerumsplade-10-cm-40-cm-60-cm?id=6520-1379419"
+  },
+  {
+    "name": "FC BETON Lettermblok Flexhjørner",
+    "price": 67.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fc-beton-lettermblok-flexhjoerner-19-cm-39-cm-25-cm?id=6300-5360978"
+  },
+  {
+    "name": "GENBRUGSSTEN Facade Murstensløber Rød Maskinrenset",
+    "price": 24.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/genbrugssten-facade-murstensloeber-roed-maskinrenset-54-mm-108-mm-228-mm?id=6200-9797286"
+  },
+  {
+    "name": "GENBRUGSSTEN Facade Murstensløber Gul Maskinrenset",
+    "price": 24.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/genbrugssten-facade-murstensloeber-gul-maskinrenset-54-mm-108-mm-228-mm?id=6200-9797282"
+  },
+  {
+    "name": "RANDERS TEGL 201 Alpha Glat Massiv Mursten",
+    "price": 12.84,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-201-alpha-glat-massiv-mursten-54-mm-108-mm-228-mm?id=6200-8335234"
+  },
+  {
+    "name": "RANDERS TEGL 307 Classica Mursten Blødstrøgen",
+    "price": 11.48,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-307-classica-mursten-bloedstroegen-54-mm-108-mm-228-mm?id=6200-8334831"
+  },
+  {
+    "name": "Bagmursten til Puds, Massiv",
+    "price": 7.69,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/bagmursten-til-puds-massiv-54-mm-108-mm-228-mm?id=6200-8696304"
+  },
+  {
+    "name": "TS TEGL Tegloverligger, Bagmur -  BS 11 cm med Fuge",
+    "price": 270.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ts-tegl-tegloverligger-bagmur-bs-11-cm-med-fuge-118-8-cm-5-sten?id=6202-9703324"
+  },
+  {
+    "name": "RANDERS TEGL 915 Basic Rødlig Mursten",
+    "price": 9.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-915-basic-roedlig-mursten-54-mm-108-mm-228-mm?id=6200-1730035"
+  },
+  {
+    "name": "RANDERS TEGL 730 Basic Indoor Light Mursten",
+    "price": 7.74,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/randers-tegl-730-basic-indoor-light-mursten-54-mm-108-mm-228-mm?id=6200-8335382"
+  },
+  {
+    "name": "RC Cementmursten",
+    "price": 18.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rc-cementmursten-5-7-cm-118-mm-233-mm?id=6300-9395232"
+  },
+  {
+    "name": "ET Mursten, Blødstrøgne",
+    "price": 7.29,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/et-mursten-bloedstroegne-54-mm-108-mm-228-mm?id=6200-8696163"
+  },
+  {
+    "name": "RAW Trægevindbinder med Bølge",
+    "price": 1359,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-traegevindbinder-med-boelge-4-x-170-50-mm-250?id=2703-9699115"
+  },
+  {
+    "name": "RAW Hjørneprofil",
+    "price": 83.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-hjoerneprofil?id=6220-9748973"
+  },
+  {
+    "name": "RAW SAFE+ Murbinder",
+    "price": 879,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-safe-murbinder-3-x-250-170-mm-200?id=2703-9699135"
+  },
+  {
+    "name": "RAW Gamba Selvskærende Binder",
+    "price": 2539,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gamba-selvskaerende-binder-4-2-x-260-90-mm-250?id=2703-9699104"
+  },
+  {
+    "name": "RAW SAFE Porebeton Binder",
+    "price": 859,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-safe-porebeton-binder-3-x-300-220-mm-200?id=2703-9699145"
+  },
+  {
+    "name": "RAW UMBA Ekspansionsmurbinder",
+    "price": 4499,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-umba-ekspansionsmurbinder-4-x-400-260-mm-250?id=2703-9699095"
+  },
+  {
+    "name": "RAW Slagmurbinder til Nylondybel",
+    "price": 2559,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-slagmurbinder-til-nylondybel-4-x-300-160-mm-250?id=2703-9699128"
+  },
+  {
+    "name": "RAW Dorn til Bølgebinder",
+    "price": 209.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-dorn-til-boelgebinder?id=2703-9699124"
+  },
+  {
+    "name": "RAPTOR Galvaniseret Pudsehage",
+    "price": 899,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-galvaniseret-pudsehage-150-mm-25?id=2640-9761464"
+  },
+  {
+    "name": "RAW Pudsehjørne til Indvendig Byggeri",
+    "price": 2279,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pudsehjoerne-til-indvendig-byggeri-34-mm-2500-mm-25?id=2703-9703019"
+  },
+  {
+    "name": "RAW Stolpebeton",
+    "price": 56.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stolpebeton-20-kg?id=6220-9777638"
+  },
+  {
+    "name": "AALBORG PORTLAND Basis Cement",
+    "price": 97.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/aalborg-portland-basis-cement-25-kg?id=6100-8321663"
+  },
+  {
+    "name": "RAW Tørbeton Fin 0-4 mm",
+    "price": 77.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-toerbeton-fin-0-4-mm-20-kg?id=6220-9748965"
+  },
+  {
+    "name": "RAW Tørbeton Grov 0-8 mm",
+    "price": 73.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-toerbeton-grov-0-8-mm-20-kg?id=6220-9748966"
+  },
+  {
+    "name": "RAW Flise/Muregrus 0-4 mm",
+    "price": 59.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-flise-muregrus-0-4-mm-15-l?id=6620-9549587"
+  },
+  {
+    "name": "RAW Strandmørtel 7,7% 0-2 mm",
+    "price": 76.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-strandmoertel-7-7-0-2-mm-15-l?id=6223-9549585"
+  },
+  {
+    "name": "RAW Pudsemørtel Bakkesand",
+    "price": 99.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pudsemoertel-bakkesand-20-kg?id=6220-9748961"
+  },
+  {
+    "name": "RAPTOR Selvklæbende Glasfiberarmeringsvæv",
+    "price": 87.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-selvklaebende-glasfiberarmeringsvaev-50-mm-100-m?id=2840-9777755"
+  },
+  {
+    "name": "RAW Muremørtel Bakkesand",
+    "price": 103.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-muremoertel-bakkesand-20-kg?id=6220-9748963"
+  },
+  {
+    "name": "RAW Reperationsmørtel",
+    "price": 98.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-reperationsmoertel-300-ml?id=2840-9801480"
+  },
+  {
+    "name": "RAW Finland Premium Massiv Dør",
+    "price": 1260,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-finland-premium-massiv-doer-2040-mm-725-mm?id=5200-9724420"
+  },
+  {
+    "name": "RAW Premium Massiv Dør Glat",
+    "price": 1035,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-premium-massiv-doer-glat-2040-mm-725-mm?id=5200-9724417"
+  },
+  {
+    "name": "RAW Celledør Glat",
+    "price": 563,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-celledoer-glat-2040-mm-725-mm-40-mm?id=5200-9742397"
+  },
+  {
+    "name": "RAW Finland Formpresset Celledør",
+    "price": 829,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-finland-formpresset-celledoer-2040-mm-725-mm?id=5200-9724668"
+  },
+  {
+    "name": "SWEDOOR Stable GW Indvendig Dør",
+    "price": 1129,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swedoor-stable-gw-indvendig-doer-2040-mm-725-mm-modul-8x21?id=5200-1905354"
+  },
+  {
+    "name": "RAW Premium Plus Knastfrit Karmsæt uden Bundstykke 110 mm",
+    "price": 1156,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-premium-plus-knastfrit-karmsaet-uden-bundstykke-110-mm-2089-mm-886-mm?id=5200-9742142"
+  },
+  {
+    "name": "RAW Karmsæt uden Bundstykke 100 mm",
+    "price": 765,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-karmsaet-uden-bundstykke-100-mm-2089-mm-886-mm?id=5200-9742108"
+  },
+  {
+    "name": "RAW Karmsæt uden Bundstykke 128 mm",
+    "price": 928,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-karmsaet-uden-bundstykke-128-mm-2089-mm-886-mm?id=5200-9742122"
+  },
+  {
+    "name": "RAW Karmsæt uden Bundstykke 121 mm",
+    "price": 881,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-karmsaet-uden-bundstykke-121-mm-2089-mm-886-mm?id=5200-9742117"
+  },
+  {
+    "name": "RAW Karmsæt uden Bundstykke 75 mm",
+    "price": 750,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-karmsaet-uden-bundstykke-75-mm-2089-mm-786-mm?id=5200-9742104"
+  },
+  {
+    "name": "BORUP D-C-FIX Klæbefolie 346-8052 Råglas Frost",
+    "price": 84.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/borup-d-c-fix-klaebefolie-346-8052-raaglas-frost?id=7660-1538734"
+  },
+  {
+    "name": "HABO Vinduesforvrider",
+    "price": 193.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-vinduesforvrider?id=2760-5045426"
+  },
+  {
+    "name": "KEFLICO Vinduesplade med Fals",
+    "price": 1112,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/keflico-vinduesplade-med-fals-23-mm-300-mm-4100-mm?id=3500-1990521"
+  },
+  {
+    "name": "KEFLICO Vinduesplade med Fals",
+    "price": 1018,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/keflico-vinduesplade-med-fals-250-mm-23-mm-4100-mm?id=3500-1990503"
+  },
+  {
+    "name": "VELUX EDW 2000 til Profil Tag - Inddækningspakke med BDX Isoleringssæt",
+    "price": 1743.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/velux-edw-2000-til-profil-tag-inddaekningspakke-med-bdx-isoleringssaet-140-cm-78-cm?id=5300-1568769"
+  },
+  {
+    "name": "VELUX GGU 0068 Manuelt Vippevindue med Standard Lavenergirude",
+    "price": 6693.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/velux-ggu-0068-manuelt-vippevindue-med-standard-lavenergirude-140-cm-78-cm?id=5300-1961611"
+  },
+  {
+    "name": "KEFLICO Vinduesplade med Fals",
+    "price": 1355,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/keflico-vinduesplade-med-fals-400-mm-23-mm-4100-mm-hvid?id=3500-1990522"
+  },
+  {
+    "name": "VELUX GPU 0068 Tophængt Ovenlysvindue",
+    "price": 8650,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/velux-gpu-0068-tophaengt-ovenlysvindue-140-cm-78-cm?id=5300-1961660"
+  },
+  {
+    "name": "VELUX GPL 2068 Tophængt Ovenlysvindue",
+    "price": 7206.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/velux-gpl-2068-tophaengt-ovenlysvindue-mk08-140-cm-78-cm?id=5300-1961632"
+  },
+  {
+    "name": "VELUX GGL 2068 Manuelt Vippevindue med Standard Lavenergirude",
+    "price": 5250,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/velux-ggl-2068-manuelt-vippevindue-med-standard-lavenergirude-140-cm-78-cm?id=5300-1961571"
+  },
+  {
+    "name": "RAPTOR L-Form Dørgreb med Clickroset og Nøgleskilt",
+    "price": 86.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-l-form-doergreb-med-clickroset-og-noegleskilt-19-mm?id=2760-5272172"
+  },
+  {
+    "name": "RAPTOR Dørgreb L-Formet med Massiv Roset",
+    "price": 171.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doergreb-l-formet-med-massiv-roset-19-mm-126-5-mm?id=2760-5298809"
+  },
+  {
+    "name": "RAPTOR Cylinderforlænger i Zink med Skruer",
+    "price": 50.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-cylinderforlaenger-i-zink-med-skruer-skruelaengde-38-mm-dybde-10-mm?id=2760-1530294"
+  },
+  {
+    "name": "RAPTOR Cylinder 6-ST Rustfri Look",
+    "price": 275,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-cylinder-6-st-rustfri-look?id=2760-9589777"
+  },
+  {
+    "name": "RAPTOR Udvendig Cylinderring",
+    "price": 67,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-udvendig-cylinderring-6-mm?id=2760-5298828"
+  },
+  {
+    "name": "RAPTOR Paskvilgreb",
+    "price": 63.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-paskvilgreb-venstre-?id=2760-2159354"
+  },
+  {
+    "name": "RAPTOR Medbringer med Plade",
+    "price": 49.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-medbringer-med-plade-83-mm?id=2760-5298893"
+  },
+  {
+    "name": "RAPTOR Dørgrebspind 200 mm",
+    "price": 78.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doergrebspind-200-mm?id=2760-2142217"
+  },
+  {
+    "name": "RAPTOR TX Skruesæt",
+    "price": 47.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-tx-skruesaet-4-mm-110-mm-2?id=2760-2141318"
+  },
+  {
+    "name": "RAPTOR Konisk Vriderbesætning",
+    "price": 110,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-konisk-vriderbesaetning-52-mm-6-mm?id=2760-5298827"
+  },
+  {
+    "name": "DOLLE ClickFIX® 56S Lofttrappe",
+    "price": 2395,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-56s-lofttrappe-120x70?id=5600-1609494"
+  },
+  {
+    "name": "DOLLE Clickfix® 76S 3-delt Lofttrappe",
+    "price": 2858,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-76s-3-delt-lofttrappe-120x70?id=5600-1634354"
+  },
+  {
+    "name": "EW BD30 3-delt Lofttrappe",
+    "price": 4990,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ew-bd30-3-delt-lofttrappe-110x70?id=5600-9701620"
+  },
+  {
+    "name": "DOLLE REI45 Brandgodkendt Loftrappe 3-Delt",
+    "price": 5154,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-rei45-brandgodkendt-loftrappe-3-delt-120x70?id=5600-2081349"
+  },
+  {
+    "name": "DOLLE ClickFIX® 56 Mini Pro+ Lofttrappe",
+    "price": 4514,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-56-mini-pro-lofttrappe-95x70?id=5600-2084766"
+  },
+  {
+    "name": "DOLLE ClickFIX® 36 Mini Lofttrappe",
+    "price": 3570,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-36-mini-lofttrappe-88x70?id=5600-1942455"
+  },
+  {
+    "name": "PLUS Håndliste T/Gelænder",
+    "price": 689,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/plus-haandliste-t-gelaender-6-cm-199-cm-sort?id=5700-2083888"
+  },
+  {
+    "name": "DOLLE ClickFIX® 56 Pro+ Lofttrappe",
+    "price": 3224,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-56-pro-lofttrappe-70-cm-120-cm?id=5600-2084765"
+  },
+  {
+    "name": "DOLLE Normandie Hemsetrappe",
+    "price": 5540,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-normandie-hemsetrappe-ligeloeb?id=5600-5094655"
+  },
+  {
+    "name": "DOLLE ClickFIX® 36G Lofttrappe",
+    "price": 2270,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-36g-lofttrappe-120x60?id=5600-1746694"
+  },
+  {
+    "name": "RAPTOR Twist Caps Nivelleringssystem med Justerbar Højde",
+    "price": 224.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-twist-caps-nivelleringssystem-med-justerbar-hoejde-100?id=2640-9763612"
+  },
+  {
+    "name": "RAPTOR Nivelleringskiler",
+    "price": 559,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-nivelleringskiler-250?id=2640-9763607"
+  },
+  {
+    "name": "RAPTOR Twist Sæt Nivelleringssystem",
+    "price": 334,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-twist-saet-nivelleringssystem-1-mm-100?id=2640-9763611"
+  },
+  {
+    "name": "RAPTOR Air-Bag 2-pak",
+    "price": 124.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-air-bag-2-pak?id=2640-9759488"
+  },
+  {
+    "name": "KNUDSEN KILEN K-Klodsmix 6T",
+    "price": 424,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knudsen-kilen-k-klodsmix-6t-2-20-mm-220?id=2280-5323987"
+  },
+  {
+    "name": "KNUDSEN KILEN Styreklods Mix 520-pak",
+    "price": 256.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knudsen-kilen-styreklods-mix-520-pak-1-5-mm-520?id=2280-5308196"
+  },
+  {
+    "name": "KNUDSEN KILEN Montagemix",
+    "price": 258.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knudsen-kilen-montagemix-245?id=2280-5689143"
+  },
+  {
+    "name": "KNUDSEN KILEN Gul Kile 324-pak",
+    "price": 554,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knudsen-kilen-gul-kile-324-pak-25-mm-45-mm-150-mm?id=2280-5266119"
+  },
+  {
+    "name": "KNUDSEN KILEN Styreklods",
+    "price": 80.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knudsen-kilen-styreklods-1-5-mm-50?id=2280-1374276"
+  },
+  {
+    "name": "WINBAG Oppustelig Kile",
+    "price": 233.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/winbag-oppustelig-kile?id=2280-5010245"
+  },
+  {
+    "name": "PN BESLAG Gelænderholder",
+    "price": 100.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/pn-beslag-gelaenderholder?id=2740-1655638"
+  },
+  {
+    "name": "PN BESLAG Gelænderholder",
+    "price": 105.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/pn-beslag-gelaenderholder?id=2740-1885979"
+  },
+  {
+    "name": "HABO Gelænderbeslag 951 Matmessing",
+    "price": 145.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-gelaenderbeslag-951-matmessing?id=2760-5716857"
+  },
+  {
+    "name": "WOODSTEP Lås til Lofttrappe/Lemme",
+    "price": 1695,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/woodstep-laas-til-lofttrappe-lemme?id=5600-8493819"
+  },
+  {
+    "name": "DOLLE ClickFIX® Forlængerled",
+    "price": 983,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-forlaengerled?id=5600-1807240"
+  },
+  {
+    "name": "DOLLE Saxestige 275 cm",
+    "price": 6575,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-saxestige-275-cm?id=5600-3059755"
+  },
+  {
+    "name": "DOLLE Saxestige 300 cm",
+    "price": 5005,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-saxestige-300-cm?id=5600-3059763"
+  },
+  {
+    "name": "RAW Standard Inspektionslem",
+    "price": 620,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-standard-inspektionslem-300-mm-300-mm?id=4120-9758010"
+  },
+  {
+    "name": "RAW Nøgle T/Inspektionslåger 7mm - Firkantnøgle",
+    "price": 17.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-noegle-t-inspektionslaager-7mm-firkantnoegle?id=4120-9765700"
+  },
+  {
+    "name": "DOLLE Betjeningsgreb til Timbersan Skunklem",
+    "price": 280,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-betjeningsgreb-til-timbersan-skunklem?id=5600-5247655"
+  },
+  {
+    "name": "RAW EI60 Inspektionslem",
+    "price": 6240,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ei60-inspektionslem-600-mm-600-mm?id=4120-9758005"
+  },
+  {
+    "name": "GYPROC Profilex Firkantnøgle",
+    "price": 19.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/gyproc-profilex-firkantnoegle?id=4120-1610593"
+  },
+  {
+    "name": "DOLLE ClickFIX® 56 Pro+ Skunklem",
+    "price": 2210,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-clickfix-56-pro-skunklem-600-mm-600-mm?id=5600-2084767"
+  },
+  {
+    "name": "RAW EI30 Inspektionslem",
+    "price": 3030,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ei30-inspektionslem-400-mm-400-mm?id=4120-9757992"
+  },
+  {
+    "name": "DOLLE EI 45 WH Skunklem",
+    "price": 2351,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dolle-ei-45-wh-skunklem-625-mm-624-mm-11-50-cm?id=5600-2083048"
+  },
+  {
+    "name": "GYPROC GPSE Profilex Inspektionslem",
+    "price": 830,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/gyproc-gpse-profilex-inspektionslem-300-mm-300-mm?id=4120-1532233"
+  },
+  {
+    "name": "GYPROC GPS Profilex Inspektionslem",
+    "price": 1860,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/gyproc-gps-profilex-inspektionslem-600-mm-600-mm?id=4120-2255790"
+  },
+  {
+    "name": "RAPTOR Rustfri Dørstopper",
+    "price": 45,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-rustfri-doerstopper-22-mm-75-mm?id=2760-9597276"
+  },
+  {
+    "name": "RAPTOR Rustfri Dørstopper",
+    "price": 45,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-rustfri-doerstopper-19-mm-75-mm?id=2760-5272205"
+  },
+  {
+    "name": "RAPTOR Dørstopper i Plast",
+    "price": 45.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doerstopper-i-plast-73-mm?id=2760-5298926"
+  },
+  {
+    "name": "RAPTOR Dørstop med Magnet",
+    "price": 108.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doerstop-med-magnet?id=2760-1242219"
+  },
+  {
+    "name": "RAPTOR Modern Nøgleskilt i Massiv Stål",
+    "price": 117.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-modern-noegleskilt-i-massiv-staal?id=2760-5298821"
+  },
+  {
+    "name": "RAPTOR Konisk Blindskilt",
+    "price": 126.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-konisk-blindskilt-52-mm?id=2760-5298859"
+  },
+  {
+    "name": "RAPTOR Dørstop i Messing",
+    "price": 90.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doerstop-i-messing?id=2760-9760850"
+  },
+  {
+    "name": "RAPTOR Basic Udhussæt",
+    "price": 434,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-basic-udhussaet?id=2760-2282853"
+  },
+  {
+    "name": "RAPTOR Langskilt med Grebshul",
+    "price": 68.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-langskilt-med-grebshul-233-mm-53-mm?id=2760-5386905"
+  },
+  {
+    "name": "RAPTOR Udvendig Cylinderring i Messing",
+    "price": 98.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-udvendig-cylinderring-i-messing-8-mm?id=2760-9760776"
+  },
+  {
+    "name": "RAPTOR L-Form Dørgreb med Clickroset og Nøgleskilt",
+    "price": 86.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-l-form-doergreb-med-clickroset-og-noegleskilt-19-mm?id=2760-5272172"
+  },
+  {
+    "name": "RAPTOR Dørgreb L-Formet med Massiv Roset",
+    "price": 171.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-doergreb-l-formet-med-massiv-roset-19-mm-126-5-mm?id=2760-5298809"
+  },
+  {
+    "name": "RAPTOR Cylinderforlænger i Zink med Skruer",
+    "price": 50.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-cylinderforlaenger-i-zink-med-skruer-skruelaengde-38-mm-dybde-10-mm?id=2760-1530294"
+  },
+  {
+    "name": "RAPTOR Cylinder 6-ST Rustfri Look",
+    "price": 275,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-cylinder-6-st-rustfri-look?id=2760-9589777"
+  },
+  {
+    "name": "RAPTOR Twist Caps Nivelleringssystem med Justerbar Højde",
+    "price": 224.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-twist-caps-nivelleringssystem-med-justerbar-hoejde-100?id=2640-9763612"
+  },
+  {
+    "name": "RAPTOR Udvendig Cylinderring",
+    "price": 67,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-udvendig-cylinderring-6-mm?id=2760-5298828"
+  },
+  {
+    "name": "RAW Finland Premium Massiv Dør",
+    "price": 1260,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-finland-premium-massiv-doer-2040-mm-725-mm?id=5200-9724420"
+  },
+  {
+    "name": "RAPTOR Paskvilgreb",
+    "price": 63.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-paskvilgreb-venstre-?id=2760-2159354"
+  },
+  {
+    "name": "RAPTOR Medbringer med Plade",
+    "price": 49.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-medbringer-med-plade-83-mm?id=2760-5298893"
+  },
+  {
+    "name": "RAPTOR Rustfri Dørstopper",
+    "price": 45,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-rustfri-doerstopper-22-mm-75-mm?id=2760-9597276"
+  },
+  {
+    "name": "RAW Gulvpap",
+    "price": 317,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvpap-500-g-1-m-30-m?id=9100-9646657"
+  },
+  {
+    "name": "RAW Gulvunderlag Akustik Premium+",
+    "price": 414,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-akustik-premium-2-6-mm-1-m-6-m?id=5100-9741763"
+  },
+  {
+    "name": "RAW Gulvunderlag Heat Protect",
+    "price": 320,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-heat-protect-1-8-mm-1-m-15-m?id=5100-9741768"
+  },
+  {
+    "name": "RAW Gulvunderlag Heat Protect+",
+    "price": 441,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-heat-protect-1-8-mm-1-m-15-m?id=5100-9741769"
+  },
+  {
+    "name": "RAW Gulvfolie",
+    "price": 1242,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvfolie-0-23-mm-2-m-37-5-m?id=9220-9721901"
+  },
+  {
+    "name": "RAW Gulvunderlag Akustik Premium Ergo+",
+    "price": 530,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-akustik-premium-ergo-2-mm-1-m-15-m?id=5100-9741765"
+  },
+  {
+    "name": "RAW Gulvunderlag Kork",
+    "price": 449,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-kork-2-mm-1-m-10-m?id=5100-9741767"
+  },
+  {
+    "name": "RAW Gulvunderlagstape Alu",
+    "price": 64.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlagstape-alu-80-mm-66-m?id=5100-9742498"
+  },
+  {
+    "name": "RAW Gulvunderlag Akustik Premium",
+    "price": 447,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-akustik-premium-2-6-mm-1-m-6-m?id=5100-9741762"
+  },
+  {
+    "name": "RAW Strøstrimmel Foam",
+    "price": 135,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-stroestrimmel-foam-2-mm-50-mm-20-m?id=5100-9646903"
+  },
+  {
+    "name": "DOMESTIC Ask 3-Stav Lamelparketgulv",
+    "price": 1479.06,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/domestic-ask-3-stav-lamelparketgulv-12-4-mm-180-mm-2200-mm?id=5100-9740503"
+  },
+  {
+    "name": "STIGMA Massivt Gulv i Fyr - Ubehandlet",
+    "price": 634,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/stigma-massivt-gulv-i-fyr-ubehandlet-26-5-mm-155-mm?id=5101-1909526"
+  },
+  {
+    "name": "JUNCKERS Bøg Harmony Silketmat Lakeret Parketgulv",
+    "price": 146.74,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-boeg-harmony-silketmat-lakeret-parketgulv?id=5100-5260843"
+  },
+  {
+    "name": "STIGMA Massivt Gulv i Fyr - Ubehandlet i A/B Sortering",
+    "price": 519,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/stigma-massivt-gulv-i-fyr-ubehandlet-i-a-b-sortering-32-mm-180-mm?id=5101-1912326"
+  },
+  {
+    "name": "STIGMA Massivt Gulv i Fyr med Hvid Hårdvoksolie",
+    "price": 731,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/stigma-massivt-gulv-i-fyr-med-hvid-haardvoksolie-20-5-mm-132-mm?id=5101-1909503"
+  },
+  {
+    "name": "JUNCKERS Bøg Variation Lakeret Parketgulv",
+    "price": 134.65,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-boeg-variation-lakeret-parketgulv?id=5100-1255965"
+  },
+  {
+    "name": "STIGMA Massivt Gulv i Fyr - Ubehandlet i A Sortering",
+    "price": 964,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/stigma-massivt-gulv-i-fyr-ubehandlet-i-a-sortering-30-mm-132-mm?id=5101-1909566"
+  },
+  {
+    "name": "JUNCKERS Bøg Harmony Ultramat Larkeret Parketgulv",
+    "price": 149.96,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-boeg-harmony-ultramat-larkeret-parketgulv-22-mm-129-mm?id=5100-1833806"
+  },
+  {
+    "name": "JUNCKERS Parketgulv Bøg Ultramat lakeret",
+    "price": 137.88,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-parketgulv-boeg-ultramat-lakeret-22-mm-129-mm?id=5100-1833808"
+  },
+  {
+    "name": "WIKING Fyr Prima Lamelplankegulv",
+    "price": 1692.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wiking-fyr-prima-lamelplankegulv-15-mm-185-mm-2350-mm?id=5100-1347411"
+  },
+  {
+    "name": "RAW Arlington Eg Click Laminatgulv",
+    "price": 593.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-arlington-eg-click-laminatgulv-8-mm-327-mm-1291-mm?id=5102-9756688"
+  },
+  {
+    "name": "KRONO FLOORING Ask 3-Stav Klasse 32 Laminatgulv",
+    "price": 359.34,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/krono-flooring-ask-3-stav-klasse-32-laminatgulv-8-mm-195-mm-1288-mm?id=5102-9782034"
+  },
+  {
+    "name": "RAW Classic Long Lys Eg Laminatgulv",
+    "price": 466.39,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-classic-long-lys-eg-laminatgulv-10-mm-246-mm-2050-mm?id=5102-9756691"
+  },
+  {
+    "name": "RAW Classic Long Laminat Eg Laminatgulv",
+    "price": 645.38,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-classic-long-laminat-eg-laminatgulv-10-mm-246-mm-2050-mm?id=5102-9756690"
+  },
+  {
+    "name": "ALLOC Original Natural Eg Laminatgulv",
+    "price": 839.33,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alloc-original-natural-eg-laminatgulv-11-mm-198-mm-1207-mm?id=5102-1985413"
+  },
+  {
+    "name": "RAW Burley Eg Laminatgulv",
+    "price": 471.96,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-burley-eg-laminatgulv-8-mm-190-5-mm-1257-mm?id=5102-9737519"
+  },
+  {
+    "name": "WALLMANN Eg Hvid Trend Laminatgulv",
+    "price": 360.14,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-eg-hvid-trend-laminatgulv-8-mm-193-mm-1380-mm?id=5102-1832209"
+  },
+  {
+    "name": "PERGO Perstorp Natural Honey Eg Laminatgulv",
+    "price": 413.36,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/pergo-perstorp-natural-honey-eg-laminatgulv-8-mm-190-mm-1200-mm?id=5102-2257258"
+  },
+  {
+    "name": "WALLMANN Advanced Plank 3125 Eg V4 Laminatgulv",
+    "price": 360.14,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-advanced-plank-3125-eg-v4-laminatgulv-8-mm-193-mm-1380-mm?id=5102-1984954"
+  },
+  {
+    "name": "RAW Vinyl Lys Eg",
+    "price": 704.06,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinyl-lys-eg-6-mm-235-mm-1518-mm?id=5102-9758168"
+  },
+  {
+    "name": "RAW Vinyl Sildeben Sunset Eg",
+    "price": 349.76,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinyl-sildeben-sunset-eg-6-mm-103-mm-591-mm?id=5102-9784600"
+  },
+  {
+    "name": "RAW Vinyl Plank Pure Eg",
+    "price": 582.29,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinyl-plank-pure-eg-6-mm-239-mm-1815-mm?id=5102-9784596"
+  },
+  {
+    "name": "RAW Vinyl Plank Sunset Eg",
+    "price": 582.29,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinyl-plank-sunset-eg-6-mm-239-mm-1815-mm?id=5102-9784598"
+  },
+  {
+    "name": "RAW Vinyl Mørk Eg Plankegulv",
+    "price": 704.06,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinyl-moerk-eg-plankegulv-6-mm-235-mm-1518-mm?id=5102-9758169"
+  },
+  {
+    "name": "TIMBERMAN Novego Natural Eg Vinylgulv",
+    "price": 714.21,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/timberman-novego-natural-eg-vinylgulv-7-5-mm-235-mm-1522-mm?id=5102-1965793"
+  },
+  {
+    "name": "TIMBERMAN VP Novego+ Brighton Vinylplank",
+    "price": 703.56,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/timberman-vp-novego-brighton-vinylplank-8-mm-228-mm-1800-mm?id=5102-2266374"
+  },
+  {
+    "name": "TIMBERMAN Novego Texas Eg Vinylgulv",
+    "price": 654.36,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/timberman-novego-texas-eg-vinylgulv-7-mm-228-mm-1800-mm?id=5102-2215646"
+  },
+  {
+    "name": "TIMBERMAN Vinylplank Rom",
+    "price": 658.35,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/timberman-vinylplank-rom-7-mm-225-mm-1830-mm?id=5102-2443295"
+  },
+  {
+    "name": "A&N Tebo Cover Klæbemåtte",
+    "price": 439,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/a-n-tebo-cover-klaebemaatte-66-cm-115-cm?id=2500-1703902"
+  },
+  {
+    "name": "CLEAN CARPET Designer Strib Dørmåtte",
+    "price": 484,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/clean-carpet-designer-strib-doermaatte-50-cm-80-cm?id=2500-1710157"
+  },
+  {
+    "name": "CLEAN Cc-500 Måtte",
+    "price": 265.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/clean-cc-500-maatte-60-cm-80-cm?id=2500-1936846"
+  },
+  {
+    "name": "RAW Sømfri Varmefordeler i Aluminium",
+    "price": 42.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-soemfri-varmefordeler-i-aluminium-16-mm-1150-mm?id=3400-9719461"
+  },
+  {
+    "name": "ROLIBA Buet Tæppeovergang Selvklæbende",
+    "price": 145.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-buet-taeppeovergang-selvklaebende-40-mm-1-m-soelv?id=2760-4656872"
+  },
+  {
+    "name": "ROLIBA Buet Tæppeovergang med Centrerede Huller",
+    "price": 119.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-buet-taeppeovergang-med-centrerede-huller-40-mm-1-m-soelv?id=2760-3937059"
+  },
+  {
+    "name": "ROLIBA Trappeprofil med Dekorative Riller",
+    "price": 160.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-trappeprofil-med-dekorative-riller-2-m-soelv?id=2760-3937448"
+  },
+  {
+    "name": "ROLIBA Niveaukompensatorprofil Selvklæbende",
+    "price": 119.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-niveaukompensatorprofil-selvklaebende-41-mm-15-mm-1-m-soelv?id=2760-8581027"
+  },
+  {
+    "name": "ROLIBA Kantbeskyttelse",
+    "price": 62.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-kantbeskyttelse-8-mm-19-mm-1-m-soelv?id=2760-3934460"
+  },
+  {
+    "name": "ROLIBA Buet Tæppeovergang med Sidehuller",
+    "price": 300.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-buet-taeppeovergang-med-sidehuller-40-mm-2-m-soelv?id=2760-5028334"
+  },
+  {
+    "name": "ROLIBA Ekstra Flad Tæppeovergang med Centrerede Huller",
+    "price": 80.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-ekstra-flad-taeppeovergang-med-centrerede-huller-30-mm-1-m-soelv?id=2760-3937075"
+  },
+  {
+    "name": "ROLIBA Bred Rillet Trappeprofil",
+    "price": 282.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-bred-rillet-trappeprofil-2-m-soelv?id=2760-3937489"
+  },
+  {
+    "name": "ROLIBA Eloxeret Overgangsprofil",
+    "price": 80.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-eloxeret-overgangsprofil-1-m?id=2760-3937083"
+  },
+  {
+    "name": "JUNCKERS Skibslak",
+    "price": 216.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-skibslak-mat-0-375-l?id=2862-1324057"
+  },
+  {
+    "name": "JUNCKERS Natursæbe",
+    "price": 234.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-natursaebe-ekstra-hvid-2-5-l?id=2862-2162645"
+  },
+  {
+    "name": "JUNCKERS Trærens Inde",
+    "price": 130.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-traerens-inde-1-l?id=2862-5307725"
+  },
+  {
+    "name": "CLEANLINE Gulvkrystal Gulvvask",
+    "price": 58.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/cleanline-gulvkrystal-gulvvask-1-l?id=2920-5639527"
+  },
+  {
+    "name": "JUNCKERS Gulvsæbe",
+    "price": 131.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-gulvsaebe-klar-1-l?id=2862-5729437"
+  },
+  {
+    "name": "JUNCKERS Panel Hvid",
+    "price": 579,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-panel-hvid-ekstra-hvid-2-5-l?id=2862-5174017"
+  },
+  {
+    "name": "JUNCKERS Vandbaseret Plejeolie",
+    "price": 272.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-vandbaseret-plejeolie-klar-1-l?id=2862-5323808"
+  },
+  {
+    "name": "NILFISK Universal Gulvrens",
+    "price": 120,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/nilfisk-universal-gulvrens-500-ml?id=2920-2071119"
+  },
+  {
+    "name": "JUNCKERS Rustic Gulvolie",
+    "price": 544,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-rustic-gulvolie-klar-2-5-l?id=2862-8341323"
+  },
+  {
+    "name": "JUNCKERS Oliesæbe",
+    "price": 238.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-oliesaebe-hvid-1-l?id=2862-2162960"
+  },
+  {
+    "name": "RAW Gulvpap",
+    "price": 317,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvpap-500-g-1-m-30-m?id=9100-9646657"
+  },
+  {
+    "name": "RAW Sømfri Varmefordeler i Aluminium",
+    "price": 42.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-soemfri-varmefordeler-i-aluminium-16-mm-1150-mm?id=3400-9719461"
+  },
+  {
+    "name": "ROLIBA Buet Tæppeovergang Selvklæbende",
+    "price": 145.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-buet-taeppeovergang-selvklaebende-40-mm-1-m-soelv?id=2760-4656872"
+  },
+  {
+    "name": "JUNCKERS Skibslak",
+    "price": 216.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-skibslak-mat-0-375-l?id=2862-1324057"
+  },
+  {
+    "name": "RAW Gulvunderlag Akustik Premium+",
+    "price": 414,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulvunderlag-akustik-premium-2-6-mm-1-m-6-m?id=5100-9741763"
+  },
+  {
+    "name": "ROLIBA Buet Tæppeovergang med Centrerede Huller",
+    "price": 119.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-buet-taeppeovergang-med-centrerede-huller-40-mm-1-m-soelv?id=2760-3937059"
+  },
+  {
+    "name": "JUNCKERS Natursæbe",
+    "price": 234.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/junckers-natursaebe-ekstra-hvid-2-5-l?id=2862-2162645"
+  },
+  {
+    "name": "ROLIBA Trappeprofil med Dekorative Riller",
+    "price": 160.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-trappeprofil-med-dekorative-riller-2-m-soelv?id=2760-3937448"
+  },
+  {
+    "name": "ROLIBA Niveaukompensatorprofil Selvklæbende",
+    "price": 119.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-niveaukompensatorprofil-selvklaebende-41-mm-15-mm-1-m-soelv?id=2760-8581027"
+  },
+  {
+    "name": "ROLIBA Kantbeskyttelse",
+    "price": 62.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-kantbeskyttelse-8-mm-19-mm-1-m-soelv?id=2760-3934460"
+  },
+  {
+    "name": "RAW Murfolie",
+    "price": 312,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-murfolie-0-3-mm-60-cm-30-m?id=9100-9755192"
+  },
+  {
+    "name": "ICOPAL PF Murpap",
+    "price": 155,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-pf-murpap-1-8-mm-11-cm-15-m?id=9100-3810223"
+  },
+  {
+    "name": "ALPHA Fugt- og Radonspærre",
+    "price": 1152,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alpha-fugt-og-radonspaerre-0-7-m-60-m?id=9220-1833641"
+  },
+  {
+    "name": "ISOLA Selvbygger 3˚",
+    "price": 1087,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isola-selvbygger-3-1000-mm-7000-mm?id=9100-1279579"
+  },
+  {
+    "name": "ALPHA Radonklæber Grå",
+    "price": 284,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alpha-radonklaeber-graa?id=9220-1899317"
+  },
+  {
+    "name": "JACKON Jackopor EPS 80 Drænplade med Filt",
+    "price": 1486.08,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackopor-eps-80-draenplade-med-filt-100-mm-600-mm-2400-mm?id=4500-5776868"
+  },
+  {
+    "name": "ALPHA Grundmursplade",
+    "price": 915,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alpha-grundmursplade-1-m-20-m?id=9240-2385718"
+  },
+  {
+    "name": "SKAMOWALL Lysningsplade",
+    "price": 89.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skamowall-lysningsplade-19-mm-240-mm-500-mm?id=6400-1956602"
+  },
+  {
+    "name": "DANA LIM 543 Tagtæt",
+    "price": 133,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dana-lim-543-tagtaet-600-ml?id=9100-1268955"
+  },
+  {
+    "name": "PROOFEX DP 200 HDPE Propper inkl. Søm",
+    "price": 725,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/proofex-dp-200-hdpe-propper-inkl-soem-200?id=9240-5750527"
+  },
+  {
+    "name": "RAW Pro Standard Dampspærre",
+    "price": 826,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-standard-dampspaerre-0-2-mm-2-15-m-35-m?id=9220-9698892"
+  },
+  {
+    "name": "RAW All-round Dampspærretape",
+    "price": 175,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-all-round-dampspaerretape-60-mm-25-m?id=9220-9698152"
+  },
+  {
+    "name": "RAW Intefu Plus Dampspærre",
+    "price": 3630,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-intefu-plus-dampspaerre-2-mm-1-5-m-50-m?id=9220-9698889"
+  },
+  {
+    "name": "RAW Pressfix Spartel Til Dampspærresystem",
+    "price": 53.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pressfix-spartel-til-dampspaerresystem-4?id=9220-9721822"
+  },
+  {
+    "name": "RAW Plus Fixed Dampspærre",
+    "price": 1835,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-plus-fixed-dampspaerre-1-5-m-50-m?id=9220-9698905"
+  },
+  {
+    "name": "RAW Pro Ultra Dampspærre",
+    "price": 902,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-ultra-dampspaerre-0-12-mm-2-15-m-35-m?id=9220-9698890"
+  },
+  {
+    "name": "RAW Lysningsfolie",
+    "price": 970,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-lysningsfolie-200-mm-30-m?id=9220-9698903"
+  },
+  {
+    "name": "RAW Dampspærretape Flex",
+    "price": 140,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-dampspaerretape-flex-60-mm-25-m?id=9220-9698151"
+  },
+  {
+    "name": "RAW Dampspærretape Fast",
+    "price": 140,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-dampspaerretape-fast-60-mm-25-m?id=9220-9698153"
+  },
+  {
+    "name": "RAW Kabelmanchet",
+    "price": 494,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-kabelmanchet-15-30-mm-10?id=9220-9698907"
+  },
+  {
+    "name": "WEBER Leca 10-20 mm Coated",
+    "price": 196,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/weber-leca-10-20-mm-coated-50-l?id=6500-2096194"
+  },
+  {
+    "name": "WEBER Leca Medium 4-10 mm",
+    "price": 206,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/weber-leca-medium-4-10-mm-50-l?id=6500-2096197"
+  },
+  {
+    "name": "RAW Pro-UV Vindspærre",
+    "price": 4375,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-uv-vindspaerre-1-5-m-50-m?id=9220-9721902"
+  },
+  {
+    "name": "RAW Pro Vindspærre 75 m²/rulle",
+    "price": 1295,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-vindspaerre-75-m-rulle-1-5-m-50-m?id=9220-9699245"
+  },
+  {
+    "name": "RAW Pro Vindspærre 20 m²/rulle",
+    "price": 408,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-vindspaerre-20-m-rulle-1-5-m-13-5-m?id=9220-9721903"
+  },
+  {
+    "name": "ICOPAL Thor 6 Vindpap",
+    "price": 462,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/icopal-thor-6-vindpap-1-m-20-m?id=9100-1029693"
+  },
+  {
+    "name": "SWISSPEARL Windstopper Connect Fibercementplade",
+    "price": 368,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-windstopper-connect-fibercementplade-9-mm-600-mm-1500-mm?id=8200-2342405"
+  },
+  {
+    "name": "SWISSPEARL Windstopper Basic Fibercementplade",
+    "price": 454,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-windstopper-basic-fibercementplade-9-mm-1200-mm-2400-mm-natur?id=8200-1851193"
+  },
+  {
+    "name": "HARDIE Shield Fibercementplade",
+    "price": 600,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/hardie-shield-fibercementplade-9-mm-1200-mm-2700-mm-lys-graa-groen?id=8200-2061768"
+  },
+  {
+    "name": "SWISSPEARL Windstopper Extreme Fibercementplade",
+    "price": 855,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-windstopper-extreme-fibercementplade-9-mm-1-2-m-2-7-m-natur?id=8200-1850738"
+  },
+  {
+    "name": "SWISSPEARL Windstopper Light",
+    "price": 624,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/swisspearl-windstopper-light-4-5-mm-1-2-m-2-7-m?id=8200-5257554"
+  },
+  {
+    "name": "GYPROC GUE 9 Ergo Vindtætningsplade",
+    "price": 235.59,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/gyproc-gue-9-ergo-vindtaetningsplade-9-mm-0-9-m-2-7-m?id=4100-5925885"
+  },
+  {
+    "name": "ROLIBA Rørskåle Selvklæbende",
+    "price": 41.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/roliba-roerskaale-selvklaebende-22-13-mm-1000-mm?id=4500-8508491"
+  },
+  {
+    "name": "ROCKWOOL Super Venti-Batts",
+    "price": 864,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-super-venti-batts-200-mm-600-mm-1000-mm?id=4400-1249356"
+  },
+  {
+    "name": "WALLMANN Rørskåle med Selvklæb",
+    "price": 19.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-roerskaale-med-selvklaeb-15-mm-1000-mm?id=4500-1493229"
+  },
+  {
+    "name": "ISOVER Formstykke 32",
+    "price": 503.19,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-formstykke-32-145-mm-560-mm-960-mm?id=4400-1265654"
+  },
+  {
+    "name": "ISOVER CLIMCOVER Lamella Alu2 Lamelmåtte",
+    "price": 1326,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-climcover-lamella-alu2-lamelmaatte-50-mm-1200-mm-5-m?id=4400-5994878"
+  },
+  {
+    "name": "ISOVER 34 EI 30 Isoleringsrulle med Papir",
+    "price": 935.38,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-34-ei-30-isoleringsrulle-med-papir-95-mm-960-mm-5700-mm?id=4400-2255792"
+  },
+  {
+    "name": "PAROC Facadeplade Linio 10",
+    "price": 883.44,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/paroc-facadeplade-linio-10-100-mm-600-mm-1200-mm?id=4400-5352811"
+  },
+  {
+    "name": "ROCKWOOL Universal Rørskål med Tape 1000 mm",
+    "price": 372,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-universal-roerskaal-med-tape-1000-mm-30-mm-89-mm-1000-mm?id=4400-1249516"
+  },
+  {
+    "name": "ISOVER Boaflex Rørskål med Alufolie",
+    "price": 174,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-boaflex-roerskaal-med-alufolie-35-mm-30-mm?id=4400-5689470"
+  },
+  {
+    "name": "ROCKWOOL 800 Rørskål",
+    "price": 1335,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-800-roerskaal-50-mm-1000-mm-324-mm?id=4400-1651631"
+  },
+  {
+    "name": "TESA Universal Tætningsliste Sort",
+    "price": 134.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/tesa-universal-taetningsliste-sort-10-mm-5-m?id=2840-1725346"
+  },
+  {
+    "name": "ALFIX Seal-strip tætningsbånd",
+    "price": 789,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alfix-seal-strip-taetningsbaand-10-cm-10-m?id=6880-7868110"
+  },
+  {
+    "name": "DYRUP Fugtbremsende Grunder",
+    "price": 544,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dyrup-fugtbremsende-grunder-glasklar-2-5-l?id=2863-1848489"
+  },
+  {
+    "name": "DYRUP Fugtbremsende Spartel",
+    "price": 554,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/dyrup-fugtbremsende-spartel-hvid-5-kg?id=2863-1878665"
+  },
+  {
+    "name": "SKALFLEX Sokkelstop",
+    "price": 3600,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skalflex-sokkelstop-hvid-5-kg?id=6225-1547741"
+  },
+  {
+    "name": "SKALFLEX Multitæt",
+    "price": 980,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/skalflex-multitaet-5-15-kg?id=6225-1547773"
+  },
+  {
+    "name": "VANDEX Storm Dry Facadeimprægnering",
+    "price": 2275,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/vandex-storm-dry-facadeimpraegnering-maelkehvid-5-l?id=6380-1438931"
+  },
+  {
+    "name": "LIP VS 20 Primer",
+    "price": 2949,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lip-vs-20-primer-lysegroen-12-kg?id=6880-5273041"
+  },
+  {
+    "name": "BORUP Vandtæt Imprægnering",
+    "price": 199.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/borup-vandtaet-impraegnering-maelkehvid-1-l?id=6380-9398547"
+  },
+  {
+    "name": "ARDEX SK12 Tricom Tætningsbånd",
+    "price": 1810,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/ardex-sk12-tricom-taetningsbaand-12-cm-50-m?id=6880-5362468"
+  },
+  {
+    "name": "RAW EPS RE80 Gulvplade",
+    "price": 547.2,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-eps-re80-gulvplade-100-mm-600-mm-1200-mm?id=4500-2344631"
+  },
+  {
+    "name": "RAW S80 Fugestrimler",
+    "price": 3035,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-s80-fugestrimler-20-mm-100-mm-1200-mm-100?id=4500-9748178"
+  },
+  {
+    "name": "JACKOPOR Polystyrenstrimler 80",
+    "price": 1946.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackopor-polystyrenstrimler-80-30-mm-100-mm-1200-mm-65?id=4500-2341224"
+  },
+  {
+    "name": "CELLTERM S80 Isolering",
+    "price": 416.16,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/cellterm-s80-isolering-150-mm-1200-mm-1200-mm?id=4500-9755517"
+  },
+  {
+    "name": "RAW P80 Gulvisolering i Pakke",
+    "price": 1386.73,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-p80-gulvisolering-i-pakke-150-mm-1200-mm-1200-mm?id=4500-9748173"
+  },
+  {
+    "name": "JACKON Jackofoam XPS Varmevæg",
+    "price": 913.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackofoam-xps-varmevaeg-43-mm-600-mm-2500-mm?id=4500-5255154"
+  },
+  {
+    "name": "RAW G60 Gulvisolering i Pakke",
+    "price": 924.48,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-g60-gulvisolering-i-pakke-150-mm-1200-mm-1200-mm?id=4500-9748175"
+  },
+  {
+    "name": "JACKON Jackofoam Isoleringslægte til Varmvæg",
+    "price": 177,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackofoam-isoleringslaegte-til-varmvaeg-30-mm-50-mm-2500-mm?id=4500-5255155"
+  },
+  {
+    "name": "KINGSPAN Kooltherm K3 Gulvisolering",
+    "price": 2138.4,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/kingspan-kooltherm-k3-gulvisolering-50-mm-600-mm-1200-mm?id=4500-1647005"
+  },
+  {
+    "name": "KINGSPAN Kooltherm K12 D Isoleringsplade",
+    "price": 2131.2,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/kingspan-kooltherm-k12-d-isoleringsplade-50-mm-600-mm-1200-mm?id=4500-2349476"
+  },
+  {
+    "name": "STEICO Flex 036 Træfiber-Isoleringsmåtter",
+    "price": 447.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/steico-flex-036-traefiber-isoleringsmaatter-45-mm-565-mm-1220-mm?id=4400-9796689"
+  },
+  {
+    "name": "STEICO Floc Cellulosefibre til Indblæsning",
+    "price": 209.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/steico-floc-cellulosefibre-til-indblaesning?id=4400-9796694"
+  },
+  {
+    "name": "JACKON Jackopor 80 Kugler",
+    "price": 1148,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackopor-80-kugler-500-l?id=4500-5608275"
+  },
+  {
+    "name": "STEICO Zell Træfiber Indblæsningsgranulat",
+    "price": 209.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/steico-zell-traefiber-indblaesningsgranulat?id=4400-9796693"
+  },
+  {
+    "name": "ROCKWOOL Granulate Multi",
+    "price": 676,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-granulate-multi-15-kg?id=4400-1420789"
+  },
+  {
+    "name": "ROCKWOOL Granulat Pro",
+    "price": 676,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-granulat-pro-15-kg?id=4400-1448915"
+  },
+  {
+    "name": "ISOVER InsulSafe",
+    "price": 815.4,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-insulsafe-12-kg?id=4400-2162540"
+  },
+  {
+    "name": "ISOVER Tætningsstrimler i Pose med 50 m",
+    "price": 1997.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-taetningsstrimler-i-pose-med-50-m?id=4400-1631951"
+  },
+  {
+    "name": "ISOVER InsulSafe",
+    "price": 1019.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-insulsafe-15-kg?id=4400-1994915"
+  },
+  {
+    "name": "KNAUF Insulation Supafil Frame Granulat",
+    "price": 1270.23,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-insulation-supafil-frame-granulat-15-5-kg?id=4400-2110916"
+  },
+  {
+    "name": "KNAUF Insulation Ecobatt 37 Formstykker",
+    "price": 230.16,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-insulation-ecobatt-37-formstykker-45-mm-560-mm-980-mm?id=4400-2171258"
+  },
+  {
+    "name": "ISOVER 37 Basic Formstykker",
+    "price": 495.08,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-37-basic-formstykker-95-mm-600-mm-960-mm?id=4400-1632788"
+  },
+  {
+    "name": "ROCKWOOL A-Batts",
+    "price": 414.81,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-a-batts-95-mm-560-mm-960-mm?id=4400-1913401"
+  },
+  {
+    "name": "KNAUF Insulation Ecobatt 34 Formstykker",
+    "price": 377.1,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-insulation-ecobatt-34-formstykker-45-mm-560-mm-980-mm?id=4400-2171262"
+  },
+  {
+    "name": "ISOVER 37 Basic Ruller",
+    "price": 503.66,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/isover-37-basic-ruller-95-mm-960-mm-7000-mm?id=4400-1656703"
+  },
+  {
+    "name": "ROCKWOOL A-Pladebatts 10",
+    "price": 500.4,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-a-pladebatts-10-50-mm-600-mm-1000-mm?id=4400-1713777"
+  },
+  {
+    "name": "ROCKWOOL Terrænbatts Erhverv",
+    "price": 549.6,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockwool-terraenbatts-erhverv-50-mm-600-mm-1000-mm?id=4400-8395303"
+  },
+  {
+    "name": "KNAUF Insulation Ecobatt 37 Rulle",
+    "price": 490.81,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-insulation-ecobatt-37-rulle-145-mm-960-mm-4650-mm?id=4400-2171253"
+  },
+  {
+    "name": "COMBITHERM Vintermåtter",
+    "price": 310,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/combitherm-vintermaatter-1350-mm-3000-mm?id=4400-9397249"
+  },
+  {
+    "name": "KNAUF Insulation EcoBatt 32 M Murfilt",
+    "price": 819,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-insulation-ecobatt-32-m-murfilt-200-mm-190-mm-1250-mm?id=4400-2171306"
+  },
+  {
+    "name": "RAW Pro-UV Tape",
+    "price": 315,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-uv-tape-60-mm-25-m?id=9220-9721904"
+  },
+  {
+    "name": "RAW Primer",
+    "price": 303,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-primer-1-l?id=9220-9698900"
+  },
+  {
+    "name": "ALPHA Foam Støbeform",
+    "price": 594,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alpha-foam-stoebeform-10-mm-15-mm-10-m?id=9220-1741613"
+  },
+  {
+    "name": "FESTOOL Udsugning AV-BHC/KHC",
+    "price": 534,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/festool-udsugning-av-bhc-khc?id=2661-2395923"
+  },
+  {
+    "name": "JACKOPOR Skarpkantet Gulvplade 80",
+    "price": 791.28,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackopor-skarpkantet-gulvplade-80-20-mm-600-mm-1200-mm?id=4500-2341199"
+  },
+  {
+    "name": "JACKON Overgangsliste Aluminium",
+    "price": 372,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-overgangsliste-aluminium-100-mm-2500-mm?id=4500-8651556"
+  },
+  {
+    "name": "ALPHA Fugt- og Radontape",
+    "price": 227,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/alpha-fugt-og-radontape-80-mm-25-m?id=9220-1853352"
+  },
+  {
+    "name": "JACKON Jackoboard Monteringssæt",
+    "price": 440,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackoboard-monteringssaet-41-mm-100?id=4500-1339926"
+  },
+  {
+    "name": "JACKON Ståldybler",
+    "price": 262,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-staaldybler-80-mm-20?id=4500-5208777"
+  },
+  {
+    "name": "JACKON Fugebånd FSK8 8 x 100 mm",
+    "price": 548.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-fugebaand-fsk8-8-x-100-mm-25-m?id=4500-1506476"
+  },
+  {
+    "name": "RAW EPS RE80 Gulvplade",
+    "price": 547.2,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-eps-re80-gulvplade-100-mm-600-mm-1200-mm?id=4500-2344631"
+  },
+  {
+    "name": "RAW Pro Standard Dampspærre",
+    "price": 826,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-standard-dampspaerre-0-2-mm-2-15-m-35-m?id=9220-9698892"
+  },
+  {
+    "name": "RAW Pro-UV Tape",
+    "price": 315,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-uv-tape-60-mm-25-m?id=9220-9721904"
+  },
+  {
+    "name": "RAW Pro-UV Vindspærre",
+    "price": 4375,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-uv-vindspaerre-1-5-m-50-m?id=9220-9721902"
+  },
+  {
+    "name": "RAW All-round Dampspærretape",
+    "price": 175,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-all-round-dampspaerretape-60-mm-25-m?id=9220-9698152"
+  },
+  {
+    "name": "RAW Intefu Plus Dampspærre",
+    "price": 3630,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-intefu-plus-dampspaerre-2-mm-1-5-m-50-m?id=9220-9698889"
+  },
+  {
+    "name": "RAW S80 Fugestrimler",
+    "price": 3035,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-s80-fugestrimler-20-mm-100-mm-1200-mm-100?id=4500-9748178"
+  },
+  {
+    "name": "RAW Pressfix Spartel Til Dampspærresystem",
+    "price": 53.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pressfix-spartel-til-dampspaerresystem-4?id=9220-9721822"
+  },
+  {
+    "name": "RAW Plus Fixed Dampspærre",
+    "price": 1835,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-plus-fixed-dampspaerre-1-5-m-50-m?id=9220-9698905"
+  },
+  {
+    "name": "RAW Pro Ultra Dampspærre",
+    "price": 902,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pro-ultra-dampspaerre-0-12-mm-2-15-m-35-m?id=9220-9698890"
+  },
+  {
+    "name": "DOMESTIC Bordplade Eg",
+    "price": 1775,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/domestic-bordplade-eg-ubehandlet-610-mm-3020-mm-26-mm?id=3500-9766248"
+  },
+  {
+    "name": "WALLMANN Laminatbordplade Original",
+    "price": 689,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-laminatbordplade-original-28-mm-610-mm-3000-mm-hvid?id=3500-2442678"
+  },
+  {
+    "name": "WALLMANN Bordplade Laminat",
+    "price": 699,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-bordplade-laminat-28-mm-610-mm-3000-mm-lys-granit?id=3500-5008972"
+  },
+  {
+    "name": "RAW Ubehandlet Ask Bordplade",
+    "price": 2450,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ubehandlet-ask-bordplade-38-mm-610-mm-3000-mm?id=3500-9692750"
+  },
+  {
+    "name": "RAW Bordplade Eg Hvidolie",
+    "price": 2770,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-bordplade-eg-hvidolie-38-mm-610-mm-3000-mm?id=3500-9692759"
+  },
+  {
+    "name": "DOMESTIC Bordplade Asketræ - Ubehandlet",
+    "price": 1725,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/domestic-bordplade-asketrae-ubehandlet-26-mm-610-mm-3020-mm?id=3500-9766253"
+  },
+  {
+    "name": "KEFLICO Laminatbordplade",
+    "price": 980,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/keflico-laminatbordplade-29-mm-610-mm-3000-mm-sort?id=3500-2115210"
+  },
+  {
+    "name": "WALLMANN Bambus Bordplade",
+    "price": 2635,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-bambus-bordplade-26-mm-635-mm-2440-mm?id=3500-2300500"
+  },
+  {
+    "name": "WALLMANN Laminatbordplade",
+    "price": 295,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-laminatbordplade-28-mm-610-mm-3000-mm-granit-antracit?id=3500-9785594"
+  },
+  {
+    "name": "WALLMANN Professionel Laminatbordplade",
+    "price": 1799,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-professionel-laminatbordplade-28-mm-635-mm-4100-mm-lys-granit?id=3500-1740678"
+  },
+  {
+    "name": "RAW Pladehund",
+    "price": 749,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-pladehund-med-klemme-18446?id=2780-9731813"
+  },
+  {
+    "name": "HABO Pladesamlingsbeslag",
+    "price": 86.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-pladesamlingsbeslag-150-mm-2?id=2760-5203366"
+  },
+  {
+    "name": "PRIMO Bordforkant",
+    "price": 523.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/primo-bordforkant-25-m-graa?id=2280-1813369"
+  },
+  {
+    "name": "HABO 300-1 Hjørnebeskytter 4-pak",
+    "price": 72.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/habo-300-1-hjoernebeskytter-4-pak?id=2760-5944470"
+  },
+  {
+    "name": "WALLMANN Laminatkantbånd",
+    "price": 99,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-laminatkantbaand-hvid?id=3500-5086710"
+  },
+  {
+    "name": "DECOPA Kantfolie i Hvid",
+    "price": 93.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/decopa-kantfolie-i-hvid-20-mm-5-m?id=2280-2759660"
+  },
+  {
+    "name": "KEFLICO E20-360PE Kantbånd til Bordplader",
+    "price": 76.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/keflico-e20-360pe-kantbaand-til-bordplader-32-mm-3000-mm-sort-terrazzo?id=3500-2138580"
+  },
+  {
+    "name": "WALLMANN Laminatkantbånd med Lim",
+    "price": 98.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-laminatkantbaand-med-lim-2-mm-32-mm-3000-mm-sort-terrazzo?id=3500-1380384"
+  },
+  {
+    "name": "VIRUTEX Dobbelt laminat kanttrimmer",
+    "price": 569,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/virutex-dobbelt-laminat-kanttrimmer?id=2641-1784417"
+  },
+  {
+    "name": "WALLMANN Tilbehørspose til Lister",
+    "price": 112.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/wallmann-tilbehoerspose-til-lister-aluminium-graa?id=3500-7963655"
+  },
+  {
     "name": "RAW Standard Gips Ak",
-    "image": "https://media.starkgroup.structpim.com/428971.webp?width=1000",
-    "sku": "4100#9760226",
-    "description": "Tykkelse: 13 mm, Bredde: 900 mm, Længde: 2400 mm. Glasfiberforstærket gipsplade RAW gips er en kraftig, glasfiberforstærket gipskartonplade, der gør pladerne stærkere og mere formstabile. Produceres med forsænkede langkanter - skårende kortkanter. Anvendes til de fleste typer væg- og loftkonstruktioner i tørre miljøer. Produktfordele for RAW Standard Gipsplade  Glasfiberforstærket Kan nemt tilpasses med hobbykniv eller håndsav Flader og langkanter beklædt specialkarton ",
     "price": 131.65,
-    "currency": "DKK",
+    "unit": "DKK",
     "url": "https://www.stark.dk/raw-standard-gips-ak-13-mm-900-mm-2400-mm?id=4100-9760226"
+  },
+  {
+    "name": "RAW Wet Vådrum Gips AK",
+    "price": 197.89,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-wet-vaadrum-gips-ak-13-mm-900-mm-2500-mm?id=4100-9760229"
+  },
+  {
+    "name": "RAPTOR Gipshejs",
+    "price": 4849,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-gipshejs?id=2640-9761768"
+  },
+  {
+    "name": "FERMACELL Fibergipsplader",
+    "price": 189,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fermacell-fibergipsplader-12-5-mm-900-mm-1200-mm-uden-spartelkant?id=4100-5979746"
+  },
+  {
+    "name": "RAW Hjørnebeskytter HSTP",
+    "price": 167.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-hjoernebeskytter-hstp-40-mm-40-mm-3000-mm?id=4120-9760724"
+  },
+  {
+    "name": "RAW UEP Skinne med EP-Dug",
+    "price": 146.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-uep-skinne-med-ep-dug-0-46-mm-70-mm-3000-mm?id=4120-9758024"
+  },
+  {
+    "name": "RAW KS13 Kantskinne",
+    "price": 101.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-ks13-kantskinne-0-5-mm-13-mm-3000-mm?id=4120-9782580"
+  },
+  {
+    "name": "RAW CSP+ Lydlægte",
+    "price": 149.1,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-csp-lydlaegte-0-46-mm-70-mm-2985-mm?id=4120-9760705"
+  },
+  {
+    "name": "RAW Fire Brandgips AK",
+    "price": 173.26,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fire-brandgips-ak-15-mm-900-mm-1800-mm?id=4100-9793805"
+  },
+  {
+    "name": "RAW S25 Sekundær Loftsskinne",
+    "price": 132.81,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-s25-sekundaer-loftsskinne-0-46-mm-25-mm-3800-mm?id=4120-9758045"
+  },
+  {
+    "name": "RIAS PLEXIGLAS®/Akrylplader Klar 3 mm",
+    "price": 943.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-plexiglas-akrylplader-klar-3-mm-1000-mm-1250-mm?id=9240-5035135"
+  },
+  {
+    "name": "RIAS PLEXIGLAS®/Akrylplader Klar 5 mm",
+    "price": 2325,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-plexiglas-akrylplader-klar-5-mm-1000-mm-1500-mm?id=9240-5035138"
+  },
+  {
+    "name": "RIAS XT Klar Plexiglas",
+    "price": 2240,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-xt-klar-plexiglas-3-mm-1520-mm-2050-mm-klar?id=9240-5062680"
+  },
+  {
+    "name": "RIAS XT ProTerra Plexiglas® Akrylplader",
+    "price": 1680,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rias-xt-proterra-plexiglas-akrylplader-5-mm-1000-mm-1250-mm?id=9240-2314427"
+  },
+  {
+    "name": "VINK Akrylplade",
+    "price": 1169.13,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/vink-akrylplade-3-mm-1525-mm-2050-mm-klar?id=9240-3918000"
+  },
+  {
+    "name": "RAW Standard Spånplade",
+    "price": 349.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-standard-spaanplade-12-mm-1250-mm-2500-mm?id=3400-9582620"
+  },
+  {
+    "name": "Hobbyplade Melamin",
+    "price": 291.34,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/hobbyplade-melamin-16-mm-600-mm-2440-mm-hvid?id=3420-9542237"
+  },
+  {
+    "name": "Melamin Plade",
+    "price": 493.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/melamin-plade-16-mm-1250-mm-2500-mm-hvid?id=3420-9645118"
+  },
+  {
+    "name": "NOVOPAN Spaandex Klimagulv EN312 P6",
+    "price": 304.66,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/novopan-spaandex-klimagulv-en312-p6-22-mm-620-mm-1820-mm-lige-spor?id=3400-1342934"
+  },
+  {
+    "name": "NOVOPAN Spaandex K-Gulv EN 312 P6 DB PROF",
+    "price": 320.46,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/novopan-spaandex-k-gulv-en-312-p6-db-prof-22-mm-620-mm-1820-mm?id=3400-5961656"
+  },
+  {
+    "name": "NOVOPAN Spaandex P2 Væg/Gulv med Fast Feder",
+    "price": 300.08,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/novopan-spaandex-p2-vaeg-gulv-med-fast-feder-12-mm-620-mm-2420-mm?id=3400-3793064"
+  },
+  {
+    "name": "NOVOPAN Spaandex Klimagulv EN 312 P4",
+    "price": 413,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/novopan-spaandex-klimagulv-en-312-p4-25-mm-620-mm-1820-mm-lige-spor?id=3400-1742245"
+  },
+  {
+    "name": "RAW Cementspånplade",
+    "price": 1004.64,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-cementspaanplade-16-mm-1200-mm-2800-mm?id=3400-9777643"
+  },
+  {
+    "name": "NOVOPAN Spåndex K-Gulvspånplade",
+    "price": 304.85,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/novopan-spaandex-k-gulvspaanplade?id=3400-2312139"
+  },
+  {
+    "name": "KRONOSPAN APS Spåndex Unipan K-Gulv P6/P5",
+    "price": 477.31,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/kronospan-aps-spaandex-unipan-k-gulv-p6-p5-22-mm-620-mm-1820-mm?id=3400-1972356"
+  },
+  {
+    "name": "RAW Standard MDF Plade",
+    "price": 389.96,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-standard-mdf-plade-16-mm-1220-mm-2440-mm?id=4220-9583464"
+  },
+  {
+    "name": "MDF Plade",
+    "price": 1242.81,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/mdf-plade-19-mm-1220-mm-3050-mm?id=4220-9714040"
+  },
+  {
+    "name": "RAW Fyr Krydsfiner A/C",
+    "price": 550.71,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-krydsfiner-a-c-12-mm-1220-mm-2440-mm?id=3200-9590207"
+  },
+  {
+    "name": "RAW Sporplade Radiata Pine Krydsfiner",
+    "price": 562.61,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-sporplade-radiata-pine-krydsfiner-12-mm-1220-mm-2440-mm?id=3200-9526569"
+  },
+  {
+    "name": "RAW Emballage Krydsfiner",
+    "price": 306.46,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-emballage-krydsfiner-12-mm-1220-mm-2440-mm?id=3200-9090122"
+  },
+  {
+    "name": "BASIC Støbekrydsfiner 1250x2500 mm",
+    "price": 840.63,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/basic-stoebekrydsfiner-1250x2500-mm-12-mm?id=3200-9721967"
+  },
+  {
+    "name": "RAW Gulv/Tag Krydsfiner Radiata Pine TG2",
+    "price": 363.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-gulv-tag-krydsfiner-radiata-pine-tg2-18-mm-610-mm-2440-mm?id=3200-9596597"
+  },
+  {
+    "name": "BASIC EP Gulv/Tag Krydsfiner TG2",
+    "price": 427.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/basic-ep-gulv-tag-krydsfiner-tg2-21-mm-610-mm-2440-mm?id=3200-9759944"
+  },
+  {
+    "name": "METSÄ Spruce Ply Mouldguard Konstruktionsplade TG2",
+    "price": 427.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/metsä-spruce-ply-mouldguard-konstruktionsplade-tg2-18-mm-610-mm-2440-mm?id=3200-1972834"
+  },
+  {
+    "name": "RAW Emballageplade Elliotis Pine Krydsfiner",
+    "price": 428.66,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-emballageplade-elliotis-pine-krydsfiner-9-mm-1220-mm-2440-mm?id=3200-9545980"
+  },
+  {
+    "name": "PAGED Birkekrydsfiner B/BB WBP",
+    "price": 1456.25,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/paged-birkekrydsfiner-b-bb-wbp-12-mm-1250-mm-2500-mm?id=3200-9757298"
+  },
+  {
+    "name": "NPI Gulv/Tag Krydsfiner Combi Protect TG2",
+    "price": 1157.98,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/npi-gulv-tag-krydsfiner-combi-protect-tg2-18-mm-1220-mm-2440-mm?id=3200-2028211"
+  },
+  {
+    "name": "RAW Vinduesplade 23 mm",
+    "price": 1370,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-vinduesplade-23-mm-400-mm-4100-mm-hvid?id=3500-1686683"
+  },
+  {
+    "name": "JACKON Jackoboard Plano Vådrumsplade",
+    "price": 490.5,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/jackon-jackoboard-plano-vaadrumsplade-12-mm-600-mm-2500-mm?id=4500-2140705"
+  },
+  {
+    "name": "TROLDTEKT Ultrafin FutureCem K5 Akustikplade",
+    "price": 211.68,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/troldtekt-ultrafin-futurecem-k5-akustikplade-25-mm-600-mm-1200-mm?id=8400-2310204"
+  },
+  {
+    "name": "CEWOOD W25S P5 1 mm Træbeton",
+    "price": 197.28,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/cewood-w25s-p5-1-mm-traebeton-25-mm-600-mm-1200-mm-hvid?id=8400-2427275"
+  },
+  {
+    "name": "TROLDTEKT Træbeton Agro Staldplade Lys Natur Fin K11",
+    "price": 273.6,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/troldtekt-traebeton-agro-staldplade-lys-natur-fin-k11-25-mm-600-mm-2400-mm?id=8400-5015401"
+  },
+  {
+    "name": "TROLDTEKT Træbeton Akustik Hvid 101 Extrem Fin K5",
+    "price": 220.33,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/troldtekt-traebeton-akustik-hvid-101-extrem-fin-k5-25-mm-600-mm-1200-mm?id=8400-1863086"
+  },
+  {
+    "name": "ROCKFON Justerbare Stropper",
+    "price": 2995,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockfon-justerbare-stropper-315-590-mm-100?id=4440-2095459"
+  },
+  {
+    "name": "KNAUF 900 M1F Designpanel",
+    "price": 1183.41,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/knauf-900-m1f-designpanel-13-mm-900-mm-2700-mm?id=4100-9650853"
+  },
+  {
+    "name": "ROCKFON Tværprofil T24 C38 Hvid",
+    "price": 1257.75,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockfon-tvaerprofil-t24-c38-hvid-38-mm-24-mm-600-mm?id=4440-1698342"
+  },
+  {
+    "name": "ROCKFON Bæreprofil T24 C/H38 Hvid",
+    "price": 2415,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/rockfon-baereprofil-t24-c-h38-hvid-38-mm-24-mm-3600-mm?id=4440-1698344"
+  },
+  {
+    "name": "TROLDTEKT K5 Ultrafin Standardkant",
+    "price": 211.68,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/troldtekt-k5-ultrafin-standardkant-25-mm-600-mm-1200-mm-hvid-101?id=8400-5214761"
+  },
+  {
+    "name": "RAW OSB3 SQ Plade",
+    "price": 273.71,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-osb3-sq-plade-11-mm-1220-mm-2440-mm?id=3200-9760179"
+  },
+  {
+    "name": "RAW OSB3 Gulv/Tag TG2",
+    "price": 178.54,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-osb3-gulv-tag-tg2-12-mm-610-mm-2440-mm?id=3200-9662933"
+  },
+  {
+    "name": "RAW OSB3 Gulv/Tag TG2, Bærende",
+    "price": 300.51,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-osb3-gulv-tag-tg2-baerende-12-mm-1220-mm-2440-mm?id=3200-9648658"
+  },
+  {
+    "name": "RAW Træfiberplade",
+    "price": 37.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-traefiberplade-3-2-mm-610-mm-1220-mm?id=4200-9526538"
+  },
+  {
+    "name": "Porøs Træfiber Plade",
+    "price": 270.74,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/poroes-traefiber-plade-12-mm-1220-mm-2440-mm?id=4200-9546078"
+  },
+  {
+    "name": "Hvidmalet Træfiberplade",
+    "price": 157.63,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/hvidmalet-traefiberplade-3-2-mm-1220-mm-2440-mm-hvid?id=4300-9645240"
+  },
+  {
+    "name": "HUNTON Asfalt Vindtæt",
+    "price": 389.43,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/hunton-asfalt-vindtaet-12-mm-1-2-m-2-44-m?id=4220-9471998"
+  },
+  {
+    "name": "STEICO A64 N+F Universalplade",
+    "price": 181.9,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/steico-a64-n-f-universalplade-35-mm-600-mm-2230-mm?id=4400-9796695"
+  },
+  {
+    "name": "I-WOOD Afslutningsliste med Sort Filt og Lys Kerne",
+    "price": 434,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/i-wood-afslutningsliste-med-sort-filt-og-lys-kerne-2780-mm-eg-ubehandlet-natur?id=3600-9757146"
+  },
+  {
+    "name": "I-WOOD Basic Akustikpanel med Sort Filt og Lys Kerne",
+    "price": 586,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/i-wood-basic-akustikpanel-med-sort-filt-og-lys-kerne-2400-mm-eg-ubehandlet-natur?id=3600-9760242"
+  },
+  {
+    "name": "FIBROTECH Quanti Akustikpanel",
+    "price": 559,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fibrotech-quanti-akustikpanel-18-mm-520-mm-2440-mm-oiled-oak?id=8400-2353331"
+  },
+  {
+    "name": "I-WOOD Basic Akustikpanel med Beige Filt og Lys Kerne",
+    "price": 586,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/i-wood-basic-akustikpanel-med-beige-filt-og-lys-kerne-2400-mm-eg-ubehandlet-natur?id=3600-2347085"
+  },
+  {
+    "name": "I-WOOD Afslutningsliste med Beige Filt og Lys Kerne",
+    "price": 476,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/i-wood-afslutningsliste-med-beige-filt-og-lys-kerne-2780-mm-eg-ubehandlet-natur?id=3600-2347399"
+  },
+  {
+    "name": "FIBROTECH Premium Akustikpanel",
+    "price": 753.95,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fibrotech-premium-akustikpanel-light-oak?id=8400-2035578"
+  },
+  {
+    "name": "FIBROTECH Quanti Akustikpanel med Grå Polyester",
+    "price": 559,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fibrotech-quanti-akustikpanel-med-graa-polyester-18-mm-520-mm-2440-mm-light-oak?id=8400-2353325"
+  },
+  {
+    "name": "LUMIÈRE Soft Panels Liste L2",
+    "price": 195,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lumière-soft-panels-liste-l2-30-mm-44-mm-1600-mm-eg?id=3600-9808952"
+  },
+  {
+    "name": "LUMIÈRE Soft Panels P6",
+    "price": 2630,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lumière-soft-panels-p6-1200-mm-40-mm-1600-mm-beacon?id=3600-9808974"
+  },
+  {
+    "name": "LUMIÈRE Soft Panels P3",
+    "price": 1990,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/lumière-soft-panels-p3-1200-mm-40-mm-1200-mm-beacon?id=3600-9808956"
+  },
+  {
+    "name": "RAW Fyr Krydsfiner A/C",
+    "price": 550.71,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-fyr-krydsfiner-a-c-12-mm-1220-mm-2440-mm?id=3200-9590207"
+  },
+  {
+    "name": "RAW Standard MDF Plade",
+    "price": 389.96,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-standard-mdf-plade-16-mm-1220-mm-2440-mm?id=4220-9583464"
+  },
+  {
+    "name": "RAW Standard Gips Ak",
+    "price": 131.65,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-standard-gips-ak-13-mm-900-mm-2400-mm?id=4100-9760226"
+  },
+  {
+    "name": "RAW OSB3 SQ Plade",
+    "price": 273.71,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-osb3-sq-plade-11-mm-1220-mm-2440-mm?id=3200-9760179"
+  },
+  {
+    "name": "RAW Træfiberplade",
+    "price": 37.18,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-traefiberplade-3-2-mm-610-mm-1220-mm?id=4200-9526538"
+  },
+  {
+    "name": "RAW OSB3 Gulv/Tag TG2",
+    "price": 178.54,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-osb3-gulv-tag-tg2-12-mm-610-mm-2440-mm?id=3200-9662933"
+  },
+  {
+    "name": "RAW Wet Vådrum Gips AK",
+    "price": 197.89,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-wet-vaadrum-gips-ak-13-mm-900-mm-2500-mm?id=4100-9760229"
+  },
+  {
+    "name": "RAW Sporplade Radiata Pine Krydsfiner",
+    "price": 562.61,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raw-sporplade-radiata-pine-krydsfiner-12-mm-1220-mm-2440-mm?id=3200-9526569"
+  },
+  {
+    "name": "RAPTOR Gipshejs",
+    "price": 4849,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/raptor-gipshejs?id=2640-9761768"
+  },
+  {
+    "name": "FERMACELL Fibergipsplader",
+    "price": 189,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/fermacell-fibergipsplader-12-5-mm-900-mm-1200-mm-uden-spartelkant?id=4100-5979746"
+  },
+  {
+    "name": "MATRIX Gulv- og Vægflise grå",
+    "price": 342.24,
+    "unit": "DKK",
+    "url": "https://www.stark.dk/matrix-gulv-og-vaegflise-graa-7-3-mm-200-mm-200-mm-graa?id=6800-2108156"
   }
 ]
