@@ -40,10 +40,8 @@ async function extractProductUrlsFromCategory(url) {
 async function extractProductData(url) {
   const puppeteer = require("puppeteer");
   const cheerio = require("cheerio");
-  const fs = require("fs");
 
   console.log(`🔍 Scraper produkt: ${url}`);
-
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
@@ -51,35 +49,33 @@ async function extractProductData(url) {
   const html = await page.content();
   await browser.close();
 
-  // Gem HTML til debug
-  fs.writeFileSync("debug.html", html);
-
   const $ = cheerio.load(html);
 
-  const name = $(".product-title").first().text().trim();
-  console.log("📦 Fundet navn:", name);
+  // ✅ NY: Få navn ud fra h1 med class som matcher (fx pb-0)
+  const name = $("h1").first().text().trim();
+  console.log(`📦 Fundet navn: ${name}`);
 
-  let price = null;
-  let unit = null;
+  const prices = [];
 
-  $(".price-area div.text-right").each((i, el) => {
+  // 💶 Pris inkl. moms (eksempel: 131,65 / PL og 60,95 / M2)
+  $(".price-area .text-right").each((_, el) => {
     const text = $(el).text().trim();
     console.log(`💶 Fundet pris-tekst: "${text}"`);
-
-    const match = text.match(/([\d.,]+)\s*\/\s*(PL|STK|M2)/i);
+    const match = text.match(/(\d{1,3}(?:\.\d{3})*,\d{2})\s*\/\s*(\w+)/i);
     if (match) {
-      price = parseFloat(match[1].replace(".", "").replace(",", "."));
-      unit = match[2].toUpperCase();
-      console.log(`✅ Matcher: Pris = ${price}, Enhed = ${unit}`);
+      const amount = parseFloat(match[1].replace(/\./g, "").replace(",", "."));
+      const unit = match[2].toUpperCase();
+      prices.push({ amount, unit, type: "inkl_moms" });
+      console.log(`✅ Matcher: Pris = ${amount}, Enhed = ${unit}`);
     }
   });
 
-  if (!name || !price || !unit) {
-    console.warn("⛔️ Manglede data fra:", url);
+  if (!name || prices.length === 0) {
+    console.warn(`⛔️ Manglede data fra: ${url}`);
     return null;
   }
 
-  return { name, price, unit, url };
+  return { name, url, prices };
 }
 async function scrapeStarkCatalog() {
   const catalog = [];
