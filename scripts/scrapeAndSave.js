@@ -8,7 +8,7 @@ async function runScraper() {
 
     const catalog = await scrapeStarkCatalog();
 
-    const filePath = path.join(__dirname, "../data/stark_catalog.json");
+    const filePath = path.join(__dirname, "../data/stark_catalog2.json");
     fs.writeFileSync(filePath, JSON.stringify(catalog, null, 2), "utf-8");
 
     console.log(`✅ Gemte ${catalog.length} produkter i: ${filePath}`);

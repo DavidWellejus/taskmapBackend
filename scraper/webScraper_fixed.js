@@ -57,30 +57,47 @@ async function extractProductData(page, url) {
   await page.goto(url, { waitUntil: "networkidle2" });
   await new Promise((resolve) => setTimeout(resolve, 1500));
   const html = await page.content();
-
   const $ = cheerio.load(html);
+
+  // 1. Find JSON-LD
   const jsonLdRaw = $('script[type="application/ld+json"]').first().html();
   if (!jsonLdRaw) return null;
 
-  let data = null;
+  let data;
   try {
     data = JSON.parse(jsonLdRaw);
-  } catch (err) {
+  } catch {
     console.warn("❌ Kunne ikke parse JSON-LD:", url);
     return null;
   }
 
   if (!data.name || !data.offers?.price) {
-    console.warn("⛔️ Manglede data fra:", url);
+    console.warn("⛔️ Manglede data fra JSON:", url);
     return null;
   }
 
   console.log(`✅ Produkt fundet: ${data.name} – ${data.offers.price} kr`);
 
+  // 2. Find ekstra priser fra DOM
+  const extraPrices = [];
+  $(".price-area .d-flex, .price-area .font-reg-22, .price-area .price").each(
+    (_, el) => {
+      const text = $(el).text().trim();
+      const match = text.match(/([\d.,]+)\s*\/\s*([A-ZÆØÅa-zæøå]+)/);
+      if (match) {
+        const value = parseFloat(match[1].replace(",", "."));
+        const unit = match[2].toUpperCase();
+        console.log(`✅ Ekstra fundet: ${unit} – ${value} kr`);
+        extraPrices.push({ value, unit });
+      }
+    }
+  );
+
   return {
     name: data.name,
-    price: parseFloat(data.offers.price),
-    unit: "DKK",
+    description: data.description || "",
+    price_main: parseFloat(data.offers.price),
+    price_extra: extraPrices,
     url,
   };
 }
